@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ShellHacks-2021/static/css/main.40302b6d.chunk.css",
+    "main.js": "/ShellHacks-2021/static/js/main.9e5dc956.chunk.js",
+    "main.js.map": "/ShellHacks-2021/static/js/main.9e5dc956.chunk.js.map",
+    "runtime-main.js": "/ShellHacks-2021/static/js/runtime-main.2f737c15.js",
+    "runtime-main.js.map": "/ShellHacks-2021/static/js/runtime-main.2f737c15.js.map",
+    "static/js/2.06812346.chunk.js": "/ShellHacks-2021/static/js/2.06812346.chunk.js",
+    "static/js/2.06812346.chunk.js.map": "/ShellHacks-2021/static/js/2.06812346.chunk.js.map",
+    "static/js/3.82369584.chunk.js": "/ShellHacks-2021/static/js/3.82369584.chunk.js",
+    "static/js/3.82369584.chunk.js.map": "/ShellHacks-2021/static/js/3.82369584.chunk.js.map",
+    "index.html": "/ShellHacks-2021/index.html",
+    "static/css/main.40302b6d.chunk.css.map": "/ShellHacks-2021/static/css/main.40302b6d.chunk.css.map",
+    "static/js/2.06812346.chunk.js.LICENSE.txt": "/ShellHacks-2021/static/js/2.06812346.chunk.js.LICENSE.txt",
+    "static/media/Half_Skyline_1.1d9e68f7.svg": "/ShellHacks-2021/static/media/Half_Skyline_1.1d9e68f7.svg",
+    "static/media/Other Logos.094e1da4.svg": "/ShellHacks-2021/static/media/Other Logos.094e1da4.svg",
+    "static/media/SH_Mobile.f754b7bf.svg": "/ShellHacks-2021/static/media/SH_Mobile.f754b7bf.svg",
+    "static/media/Wordmark_2021.5114fe22.svg": "/ShellHacks-2021/static/media/Wordmark_2021.5114fe22.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f737c15.js",
+    "static/js/2.06812346.chunk.js",
+    "static/css/main.40302b6d.chunk.css",
+    "static/js/main.9e5dc956.chunk.js"
+  ]
+}
