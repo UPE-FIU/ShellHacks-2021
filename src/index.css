@@ -1,0 +1,24 @@
+body, html {
+    height: 100vh;
+    background-image: linear-gradient(#39c0de, #c5f5eb);
+    background-size: cover;
+    margin:  0;
+    overflow-y: hidden;
+}
+
+#root {
+    display: flex;
+    height: 100%;
+    flex-flow: column;
+    justify-content: center;
+}
+
+@media screen and (max-width: 600px) {
+    body, html {
+        display: flex;
+        flex-flow: column;
+        justify-content: space-between;
+        overflow-x: hidden;
+    }
+
+}
