@@ -14,10 +14,10 @@ class infoPanel extends Component {
                 <h2>September 24th - 26th, 2021</h2>
                 <h2>Hosted at FIU & Virtually</h2>
                 <div className="buttonsDiv">
-                    <button className="registerButton">Register Now!</button>
+                    <a href="https://airtable.com/shrw0Nxg4xHaIGjSC" className="registerButton">Register Now!</a>
                     <div className="buttonRow">
-                        <button className="rowButton">Join Discord</button>
-                        <button className="rowButton">Sponsor Us</button>
+                        <a href="https://discord.gg/upefiu" className="rowButton">Join Discord</a>
+                        {/* <a className="rowButton">Sponsor Us</a> */}
                     </div>
                 </div>
                 
