@@ -19,6 +19,7 @@ body, html {
         flex-flow: column;
         justify-content: space-between;
         overflow-x: hidden;
+        background-image: linear-gradient(rgba(57,192,222,1) 0%, rgba(197,245,235,1) 90%);
     }
 
 }
