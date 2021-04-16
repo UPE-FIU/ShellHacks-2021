@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.37b1d163.chunk.css",
-    "main.js": "/static/js/main.b79a70fd.chunk.js",
-    "main.js.map": "/static/js/main.b79a70fd.chunk.js.map",
+    "main.css": "/static/css/main.390632c8.chunk.css",
+    "main.js": "/static/js/main.617dbf01.chunk.js",
+    "main.js.map": "/static/js/main.617dbf01.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.785a25d1.js",
     "runtime-main.js.map": "/static/js/runtime-main.785a25d1.js.map",
     "static/js/2.06812346.chunk.js": "/static/js/2.06812346.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.82369584.chunk.js": "/static/js/3.82369584.chunk.js",
     "static/js/3.82369584.chunk.js.map": "/static/js/3.82369584.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.37b1d163.chunk.css.map": "/static/css/main.37b1d163.chunk.css.map",
+    "static/css/main.390632c8.chunk.css.map": "/static/css/main.390632c8.chunk.css.map",
     "static/js/2.06812346.chunk.js.LICENSE.txt": "/static/js/2.06812346.chunk.js.LICENSE.txt",
     "static/media/Half_Skyline_1.1d9e68f7.svg": "/static/media/Half_Skyline_1.1d9e68f7.svg",
     "static/media/Other Logos.094e1da4.svg": "/static/media/Other Logos.094e1da4.svg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.785a25d1.js",
     "static/js/2.06812346.chunk.js",
-    "static/css/main.37b1d163.chunk.css",
-    "static/js/main.b79a70fd.chunk.js"
+    "static/css/main.390632c8.chunk.css",
+    "static/js/main.617dbf01.chunk.js"
   ]
 }
