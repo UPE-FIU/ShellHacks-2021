@@ -26,11 +26,13 @@
   }
 
   .right{
-    height: 30vh;
-    width: 110vw;
+    height: 51vh;
+    width: 105vw;
+    z-index: 0;
   }
   
   .left {
+    z-index: 1;
     width: 70vw;
   }
 }
