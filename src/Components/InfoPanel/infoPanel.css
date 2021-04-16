@@ -6,6 +6,7 @@
 
 h1, h2 {
     font-family: 'Poppins', sans-serif;
+    font-weight: 400;
     color: white;
     font-size: 1.5vw;
     margin-top: 0.75%;
@@ -16,6 +17,7 @@ h1, h2 {
 .shellLogo {
     width: 100%;
     align-items: center;
+    margin-bottom: 5%;
 }
 
 .buttonsDiv {
@@ -42,11 +44,13 @@ h1, h2 {
     text-decoration: none;
     background-image: linear-gradient(to right, rgb(255, 72, 142) 0%, rgb(255, 127, 148) 100%);
     border-color: transparent;
+    margin-top: 5%;
     margin-left: 10%;
     margin-right: 10%;
     padding-top: 5%;
     padding-bottom: 5%;
     margin-bottom: 5%;
+    font-weight: 800;
 }
     
 .myButton:hover {
@@ -72,6 +76,7 @@ h1, h2 {
     padding-top: 5%;
     padding-bottom: 5%;
     width: 50%;
+    font-weight: 800;
 }
 
 @media screen and (max-width: 600px) {

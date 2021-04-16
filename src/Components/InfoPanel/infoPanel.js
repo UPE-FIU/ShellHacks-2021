@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './infoPanel.css'
-import ShellHacksLogo from '../../SVG/Wordmark_2021.svg'
+import ShellHacksLogo from '../../SVG/Wordmark_2.svg'
 import Sponsors from '../../SVG/Other Logos.svg'
 
 class infoPanel extends Component {
@@ -10,11 +10,10 @@ class infoPanel extends Component {
                 <div className="shellLogo">
                     <img src={ShellHacksLogo} alt='ShellHacks Logo'  />
                 </div>
-                <h1>Florida's Largest Hackathon</h1>
+                {/* <h1>Florida's Largest Hackathon</h1> */}
                 <h2>September 24th - 26th, 2021</h2>
                 <h2>Hosted at FIU & Virtually</h2>
                 <div className="buttonsDiv">
-                
                     <a className="registerButton">Register Soon!</a> {/*LINK TO REGISTER. COPY AND PASTE AFTER a TAG IN THIS LINE --> href="https://airtable.com/shrw0Nxg4xHaIGjSC" */}
                     <div className="buttonRow">
                         <a href="https://discord.gg/upefiu" className="rowButton">Join Discord</a>
