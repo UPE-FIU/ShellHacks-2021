@@ -14,10 +14,10 @@ class infoPanel extends Component {
                 <h2>September 24th - 26th, 2021</h2>
                 <h2>Hosted at FIU & Virtually</h2>
                 <div className="buttonsDiv">
-                    <a href="#" className="registerButton">Register Soon!</a> {/*LINK TO REGISTER. COPY AND PASTE AFTER a TAG IN THIS LINE --> href="https://airtable.com/shrw0Nxg4xHaIGjSC" */}
+                    <a href="https://airtable.com/shrw0Nxg4xHaIGjSC" className="registerButton">Register Now!</a>
                     <div className="buttonRow">
                         <a href="https://discord.gg/upefiu" className="rowButton">Join Discord</a>
-                        <a href="mailto:Upe @fiu.edu?subject=We want to sponsor" className="rowButton">Sponsor Us</a>
+                        <a href="mailto:Upe@fiu.edu?subject=We want to sponsor" className="rowButton">Sponsor Us</a>
                     </div>
                 </div>
                 <img src={Sponsors} alt='Other Logos' />
