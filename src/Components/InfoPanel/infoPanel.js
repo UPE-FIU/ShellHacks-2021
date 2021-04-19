@@ -14,7 +14,7 @@ class infoPanel extends Component {
                 <h2>September 24th - 26th, 2021</h2>
                 <h2>Hosted at FIU & Virtually</h2>
                 <div className="buttonsDiv">
-                    <a href="https://airtable.com/shrw0Nxg4xHaIGjSC" className="registerButton">Register Now!</a>
+                    <a href="https://airtable.com/shrw0Nxg4xHaIGjSC" className="registerButton">Apply Now!</a>
                     <div className="buttonRow">
                         <a href="https://discord.gg/upefiu" className="rowButton">Join Discord</a>
                         {/* <a className="rowButton">Sponsor Us</a> */}
