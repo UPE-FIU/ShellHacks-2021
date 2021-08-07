@@ -5,34 +5,44 @@
   align-items: center;
   padding: 5% 0 5% 15%;
   background-position: center;
-  
+  height: 80vh;
 }
 
 .right{
-  height: 50%;
   width: 50%;
+  height: 50%;
 }
 
 .left {
   width: 35%;
 }
 
+.mobileImage {
+  display: none;
+}
+
 @media screen and (max-width: 600px) {
   .container {
     flex-flow: column;
     padding: 0;
-    height: 100vh;
+    height:auto;
     width: 100vw;
   }
 
   .right{
-    height: 47vh;
-    width: 105vw;
-    z-index: 0;
+    display: none;
   }
-  
+
   .left {
-    z-index: 1;
     width: 70vw;
+  }
+
+  .supporter {
+    width: 100vw;
+    margin-top: 16px;
+  }
+
+  .mobileImage {
+    display: inline;
   }
 }

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Facebook",
+        "tier": "corporate",
+        "url": "https://www.facebook.com/",
+        "logo": "Facebook.svg"
+    },
+    {
+        "name": "Google",
+        "tier": "corporate",
+        "url": "https://www.google.com/",
+        "logo": "Google.svg"
+    },    
+    {
+        "name": "JetBrains",
+        "tier": "corporate",
+        "url": "https://www.jetbrains.com/",
+        "logo": "JetBrains.svg"
+    },
+    {
+        "name": "EchoAR",
+        "tier": "corporate",
+        "url": "https://www.echoar.xyz/",
+        "logo": "EchoAR.svg"
+    }
+]

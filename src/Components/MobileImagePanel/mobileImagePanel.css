@@ -1,0 +1,16 @@
+#mobileSky {
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+    .mobileImageContainer {
+        display: flex;
+        flex-flow: column;
+        justify-content: flex-end;
+    }
+    
+    #mobileSky {
+        display: inline;
+    }
+
+}
