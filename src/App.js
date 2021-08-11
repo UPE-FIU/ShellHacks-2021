@@ -15,7 +15,7 @@ function App() {
           <ImagePanel />
         </div>
       </div>
-      <div className="supporter">
+      <div className="sponsor">
         <SponsorPanel />
       </div>
       <div className="mobileImage">

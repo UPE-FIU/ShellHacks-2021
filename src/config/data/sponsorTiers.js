@@ -1,5 +1,7 @@
 export const SponsorTiers = [
-    "corporate",
-    "startup",
-    "partner"
+    "conch",
+    "cone",
+    "scallop",
+    "sand_dollar",
+    "in-kind"
 ];

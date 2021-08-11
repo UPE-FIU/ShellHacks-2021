@@ -5,9 +5,14 @@ import sponsors from '../../config/data/sponsors.json';
 import { SponsorTiers } from '../../config/data/sponsorTiers';
 
 function SponsorLogo(props) {
+    let imgClassName = "";
+    if (props.sponsor.tier === SponsorTiers[0]) {
+        imgClassName = "bigLogo";
+    }
+
     return (
-        <a className={`sponsorLogo ${props.sponsor.tier}`} href={props.sponsor.url} target="_blank" rel="noreferrer">
-            <img alt={props.sponsor.name} src={require(`../../SVG/Sponsors/${props.sponsor.logo}`).default}/>
+        <a className={`sponsorLogo ${props.sponsor.tier}`} href={props.sponsor.url} target="_blank" rel="noreferrer noopener">
+            <img alt={props.sponsor.name} className={imgClassName} src={require(`../../SVG/Sponsors/${props.sponsor.logo}`).default} />
         </a>
     );
 }

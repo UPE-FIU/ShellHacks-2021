@@ -1,25 +1,61 @@
 [
     {
         "name": "Facebook",
-        "tier": "corporate",
+        "tier": "conch",
         "url": "https://www.facebook.com/",
         "logo": "Facebook.svg"
     },
     {
         "name": "Google",
-        "tier": "corporate",
+        "tier": "cone",
         "url": "https://www.google.com/",
         "logo": "Google.svg"
     },    
     {
+        "name": "CodePath",
+        "tier": "cone",
+        "url": "https://codepath.org/",
+        "logo": "CodePath.svg"
+    }, 
+    {
+        "name": "Salesforce",
+        "tier": "scallop",
+        "url": "https://www.salesforce.com/",
+        "logo": "Salesforce.svg"
+    },
+    {
+        "name": "Assurant",
+        "tier": "scallop",
+        "url": "https://www.assurant.com/",
+        "logo": "Assurant.svg"
+    },
+    {
+        "name": "Linode",
+        "tier": "scallop",
+        "url": "https://www.linode.com/",
+        "logo": "Linode.svg"
+    },
+    {
         "name": "JetBrains",
-        "tier": "corporate",
+        "tier": "in-kind",
         "url": "https://www.jetbrains.com/",
         "logo": "JetBrains.svg"
+    },    
+    {
+        "name": "Wolfram Language",
+        "tier": "in-kind",
+        "url": "https://www.wolfram.com/language/",
+        "logo": "Wolfram.svg"
+    },
+    {
+        "name": "1517",
+        "tier": "in-kind",
+        "url": "https://www.1517.org/",
+        "logo": "1517.svg"
     },
     {
         "name": "EchoAR",
-        "tier": "corporate",
+        "tier": "in-kind",
         "url": "https://www.echoar.xyz/",
         "logo": "EchoAR.svg"
     }
