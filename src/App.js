@@ -4,6 +4,7 @@ import SponsorPanel from './Components/SponsorPanel/sponsorPanel';
 import MobileImagePanel from './Components/MobileImagePanel/mobileImagePanel';
 import PartnerPanel from './Components/PartnerPanel/partnerPanel';
 import './App.css';
+import OrganizerPanel from './Components/OrganizerPanel/organizerPanel';
 
 
 function App() {
@@ -17,11 +18,16 @@ function App() {
           <ImagePanel />
         </div>
       </div>
-      <div className="sponsor">
-        <SponsorPanel />
-      </div>
-      <div className="partner">
-        <PartnerPanel />
+      <div className="companyInfoContainer">
+        <div className="companyInfoPanel">
+          <OrganizerPanel />
+        </div>
+        <div className="companyInfoPanel">
+          <SponsorPanel />
+        </div>
+        <div className="companyInfoPanel">
+          <PartnerPanel />
+        </div>
       </div>
       <div className="mobileImage">
         <MobileImagePanel />

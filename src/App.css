@@ -21,12 +21,12 @@
   display: none;
 }
 
-.sponsor {
+.companyInfoContainer {
   margin: 2% 10%;
 }
 
-.partner {
-  margin: 2% 10%;
+.companyInfoPanel {
+  margin: 5% 0;
 }
 
 @media screen and (max-width: 600px) {
@@ -45,13 +45,11 @@
     width: 70vw;
   }
 
-  .sponsor {
-    width: 100vw;
-    margin: 16px 0 0 0;
+  .companyInfoContainer {
+    margin: 0;
   }
 
-  .partner {
-    width: 100vw;
+  .companyInfoPanel {
     margin: 16px 0 0 0;
   }
 

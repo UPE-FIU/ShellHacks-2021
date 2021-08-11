@@ -1,6 +1,6 @@
 body, html {
     height: 100vh;
-    background-image: linear-gradient(rgba(57,192,222,1) 0%, rgba(197,245,235,1) 50%);
+    background-image: linear-gradient(rgba(57,192,222,1) 0%, rgba(197,245,235,1) 90%);
     background-size: cover;
     margin:  0;
     overflow-x: hidden;
@@ -24,7 +24,7 @@ body, html {
         flex-flow: column;
         justify-content: space-between;
         overflow-x: hidden;
-        background-image: linear-gradient(rgba(57,192,222,1) 0%, rgba(197,245,235,1) 30%);
+        background-image: linear-gradient(rgba(57,192,222,1) 0%, rgba(197,245,235,1) 90%);
     }
 
 }
