@@ -1,0 +1,54 @@
+.partnerContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.partnerLogoContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center;
+    width: 100%;
+    margin: 16px;
+}
+
+.partnerLogo {
+    display: flex;
+    align-items: center;
+    width: 25%;
+    padding: 8px;
+}
+
+h1 {
+    font-family: 'canada-type-gibson',sans-serif;
+    font-weight: 900;
+    font-size: 1.5vw;
+    display: inline-block;
+    color: #24b2c0;
+}
+
+@media screen and (max-width: 600px) {
+    .partnerContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .partnerLogoContainer {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .partnerLogo {
+        height: 100px;
+        width: 90% !important;
+    }
+
+    h1 {
+        font-size: 4vw;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+}

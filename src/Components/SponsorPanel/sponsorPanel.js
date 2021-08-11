@@ -39,7 +39,6 @@ class SponsorPanel extends Component {
                         });
                     })}
                 </div>
-                <h1>With 🤍 from ShellHacks</h1>
             </div>
         );
     }

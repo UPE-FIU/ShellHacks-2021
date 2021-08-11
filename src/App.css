@@ -22,8 +22,11 @@
 }
 
 .sponsor {
-  margin: 5% 10%;
-  box-sizing:border-box;
+  margin: 2% 10%;
+}
+
+.partner {
+  margin: 2% 10%;
 }
 
 @media screen and (max-width: 600px) {
@@ -43,6 +46,11 @@
   }
 
   .sponsor {
+    width: 100vw;
+    margin: 16px 0 0 0;
+  }
+
+  .partner {
     width: 100vw;
     margin: 16px 0 0 0;
   }
