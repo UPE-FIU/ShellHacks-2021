@@ -1,16 +1,52 @@
 [
     {
-        "name": "Facebook",
-        "tier": "conch",
-        "url": "https://www.facebook.com/",
-        "logo": "Facebook.svg"
-    },
-    {
         "name": "Google",
         "tier": "cone",
         "url": "https://www.google.com/",
         "logo": "Google.svg"
     },    
+    {
+        "name": "Microsoft",
+        "tier": "cone",
+        "url": "https://www.google.com/",
+        "logo": "Microsoft.svg"
+    },    
+    {
+        "name": "Facebook",
+        "tier": "cone",
+        "url": "https://www.facebook.com/",
+        "logo": "Facebook.svg"
+    },
+    {
+        "name": "Salesforce",
+        "tier": "cone",
+        "url": "https://www.salesforce.com/",
+        "logo": "Salesforce.svg"
+    },
+    {
+        "name": "Taxfyle",
+        "tier": "cone",
+        "url": "https://www.taxfyle.com/",
+        "logo": "Taxfyle.svg"
+    },
+    {
+        "name": "MetLife",
+        "tier": "cone",
+        "url": "https://www.metlife.com/",
+        "logo": "Metlife.svg"
+    },
+    {
+        "name": "Linode",
+        "tier": "cone",
+        "url": "https://www.linode.com/",
+        "logo": "Linode.svg"
+    },
+    {
+        "name": "Google Cloud Platform",
+        "tier": "cone",
+        "url": "https://cloud.google.com/",
+        "logo": "GCP.svg"
+    },
     {
         "name": "CodePath",
         "tier": "cone",
@@ -18,44 +54,63 @@
         "logo": "CodePath.svg"
     }, 
     {
-        "name": "Salesforce",
-        "tier": "scallop",
-        "url": "https://www.salesforce.com/",
-        "logo": "Salesforce.svg"
+        "name": "Sketch",
+        "tier": "cone",
+        "url": "https://www.sketch.com/",
+        "logo": "Sketch.svg"
     },
     {
-        "name": "Assurant",
-        "tier": "scallop",
-        "url": "https://www.assurant.com/",
-        "logo": "Assurant.svg"
+        "name": "Digital Ocean",
+        "tier": "cone",
+        "url": "https://www.digitalocean.com/",
+        "logo": "DigitalOcean.svg"
     },
     {
-        "name": "Linode",
-        "tier": "scallop",
-        "url": "https://www.linode.com/",
-        "logo": "Linode.svg"
+        "name": "Balsamiq",
+        "tier": "cone",
+        "url": "https://balsamiq.com/",
+        "logo": "Balsamiq.svg"
     },
     {
-        "name": "JetBrains",
-        "tier": "in-kind",
-        "url": "https://www.jetbrains.com/",
-        "logo": "JetBrains.svg"
-    },    
+        "name": "Twilio",
+        "tier": "cone",
+        "url": "https://www.twilio.com/",
+        "logo": "Twilio.svg"  
+    },
     {
+        
         "name": "Wolfram Language",
-        "tier": "in-kind",
+        "tier": "cone",
         "url": "https://www.wolfram.com/language/",
         "logo": "Wolfram.svg"
     },
     {
+        "name": "Florida Panthers",
+        "tier": "cone",
+        "url": "https://www.nhl.com/panthers",
+        "logo": "FloridaPanthers.svg"
+    },
+    {
+        "name": "JetBrains",
+        "tier": "cone",
+        "url": "https://www.jetbrains.com/",
+        "logo": "JetBrains.svg"
+    },
+    {
+        "name": "Replit",
+        "tier": "cone",
+        "url": "https://replit.com/",
+        "logo": "Replit.svg"  
+    },
+    {
         "name": "1517",
-        "tier": "in-kind",
+        "tier": "cone",
         "url": "https://www.1517.org/",
         "logo": "1517.svg"
     },
     {
         "name": "EchoAR",
-        "tier": "in-kind",
+        "tier": "cone",
         "url": "https://www.echoar.xyz/",
         "logo": "EchoAR.svg"
     }
