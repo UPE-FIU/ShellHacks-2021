@@ -25,9 +25,9 @@ function App() {
         <div className="companyInfoPanel">
           <SponsorPanel />
         </div>
-        <div className="companyInfoPanel">
+        {/* <div className="companyInfoPanel">
           <PartnerPanel />
-        </div>
+        </div> */}
       </div>
       <div className="mobileImage">
         <MobileImagePanel />
