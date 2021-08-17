@@ -12,11 +12,6 @@
     width: 100%;
 }
 
-.sponsorLogo {
-    display: flex;
-    align-items: center;
-}
-
 .sponsorLogo.conch {
     width: 100%;
     height:auto;
