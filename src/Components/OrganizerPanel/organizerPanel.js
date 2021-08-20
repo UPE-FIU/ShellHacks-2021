@@ -6,7 +6,7 @@ class OrganizerPanel extends Component {
     render() {
         return (
             <div className="organizerContainer">
-                <h1>Organized By</h1>
+                <h1 className="title">Organized By</h1>
                 <div className="organizerInfo"> 
                     <a className="organizerLogo" href="https://upe.cs.fiu.edu/" target="_blank" rel="noreferrer noopener">
                         <img alt="UPE Logo" src={UPE}/>

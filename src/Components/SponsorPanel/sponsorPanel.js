@@ -31,7 +31,7 @@ class SponsorPanel extends Component {
     render() {
         return (
             <div className="sponsorContainer">
-                <h1>Sponsored By</h1>
+                <h1 className="title">Sponsored By</h1>
                 <div className="sponsorLogoContainer"> 
                     {SponsorTiers.map((sponsorTier) => {
                         return sponsors.map((sponsor, key) => {

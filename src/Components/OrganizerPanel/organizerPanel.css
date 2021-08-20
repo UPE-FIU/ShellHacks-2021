@@ -25,6 +25,13 @@
     color: white;
 }
 
+.title {
+    font-family: 'canada-type-gibson',sans-serif;
+    font-weight: 900;
+    font-size: 1.5vw;
+    display: inline-block;
+    color: #24b2c0;
+}
 
 @media screen and (max-width: 600px) {
     .organizerContainer {
@@ -46,4 +53,9 @@
         width: 70vw;
     }
 
+    .title {
+        font-size: 4vw;
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
 }

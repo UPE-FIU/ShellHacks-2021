@@ -5,12 +5,11 @@
   align-items: center;
   margin: 5% 0 5% 15%;
   background-position: center;
-  height: 80vh;
 }
 
 .right{
   width: 50%;
-  height: 50%;
+  height: 20vw;
 }
 
 .left {
@@ -21,12 +20,8 @@
   display: none;
 }
 
-.companyInfoContainer {
+.infoSection {
   margin: 2% 10%;
-}
-
-.companyInfoPanel {
-  margin: 5% 0;
 }
 
 @media screen and (max-width: 600px) {
@@ -45,12 +40,8 @@
     width: 70vw;
   }
 
-  .companyInfoContainer {
-    margin: 0;
-  }
-
-  .companyInfoPanel {
-    margin: 16px 0 0 0;
+  .infoSection {
+    margin: 24px 0 0 0;
   }
 
   .mobileImage {

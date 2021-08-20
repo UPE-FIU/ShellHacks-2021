@@ -20,7 +20,7 @@
     padding: 8px;
 }
 
-h1 {
+.title {
     font-family: 'canada-type-gibson',sans-serif;
     font-weight: 900;
     font-size: 1.5vw;
@@ -46,7 +46,7 @@ h1 {
         width: 90% !important;
     }
 
-    h1 {
+    .title {
         font-size: 4vw;
         margin-top: 2%;
         margin-bottom: 2%;

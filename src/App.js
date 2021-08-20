@@ -18,17 +18,11 @@ function App() {
           <ImagePanel />
         </div>
       </div>
-      <div className="companyInfoContainer">
-        <div className="companyInfoPanel">
+      <section className="infoSection">
           <OrganizerPanel />
-        </div>
-        <div className="companyInfoPanel">
           <SponsorPanel />
-        </div>
-        {/* <div className="companyInfoPanel">
-          <PartnerPanel />
-        </div> */}
-      </div>
+        {/* <PartnerPanel /> */}
+      </section>
       <div className="mobileImage">
         <MobileImagePanel />
       </div>

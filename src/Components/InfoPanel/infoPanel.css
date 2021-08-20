@@ -4,7 +4,7 @@
     align-items: center;
 }
 
-h1, h2 {
+.subheading {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: white;
@@ -92,7 +92,7 @@ h1, h2 {
         width: 100%;
     }
     
-    h1, h2 {
+    .subheading {
         font-size: 4vw;
         margin-top: 2%;
         margin-bottom: 2%;

@@ -11,8 +11,8 @@ class infoPanel extends Component {
                     <img src={ShellHacksLogo} alt='ShellHacks Logo'  />
                 </div>
                 {/* <h1>Florida's Largest Hackathon</h1> */}
-                <h2>September 24th - 26th, 2021</h2>
-                <h2>Hosted Virtually</h2>
+                <h2 className="subheading">September 24th - 26th, 2021</h2>
+                <h2 className="subheading">Hosted Virtually</h2>
                 <div className="buttonsDiv">
                     <a href="https://airtable.com/shrw0Nxg4xHaIGjSC" className="registerButton">Apply Now!</a>
                     <div className="buttonRow">

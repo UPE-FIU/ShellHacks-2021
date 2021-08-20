@@ -24,7 +24,7 @@ class PartnerPanel extends Component {
     render() {
         return (
             <div className="partnerContainer">
-                <h1>Community Partners</h1>
+                <h1 className="title">Community Partners</h1>
                 <div className="partnerLogoContainer"> 
                     {partners.map((partner, key) => 
                         <PartnerLogo key={key} partner={partner}/>
