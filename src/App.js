@@ -3,8 +3,9 @@ import ImagePanel from './Components/ImagePanel/imagePanel'
 import SponsorPanel from './Components/SponsorPanel/sponsorPanel';
 import MobileImagePanel from './Components/MobileImagePanel/mobileImagePanel';
 import PartnerPanel from './Components/PartnerPanel/partnerPanel';
-import './App.css';
 import OrganizerPanel from './Components/OrganizerPanel/organizerPanel';
+import FAQPanel from './Components/FAQPanel/FAQPanel';
+import './App.css';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
         </div>
       </div>
       <section className="infoSection">
+          <FAQPanel />
           <OrganizerPanel />
           <SponsorPanel />
         {/* <PartnerPanel /> */}
