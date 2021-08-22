@@ -30,7 +30,7 @@ class FAQPanel extends Component {
     render() {
         return (
             <div className="FAQContainer">
-                <h1 className="title">Frequently Asked Questions (FAQ)</h1>
+                <h1 className="title">Frequently Asked Questions</h1>
                 <div className="FAQList">
                     {faqs && faqs.map((faq, index) => <FAQItem question={faq.question} answer={faq.answer} key={index} />)}
                 </div>

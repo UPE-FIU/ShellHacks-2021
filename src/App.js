@@ -5,6 +5,7 @@ import MobileImagePanel from './Components/MobileImagePanel/mobileImagePanel';
 import PartnerPanel from './Components/PartnerPanel/partnerPanel';
 import OrganizerPanel from './Components/OrganizerPanel/organizerPanel';
 import FAQPanel from './Components/FAQPanel/FAQPanel';
+import SchedulePanel from './Components/SchedulePanel/schedulePanel';
 import './App.css';
 
 
@@ -20,6 +21,7 @@ function App() {
         </div>
       </div>
       <section className="infoSection">
+        {/* <SchedulePanel /> */}
           <FAQPanel />
           <OrganizerPanel />
           <SponsorPanel />

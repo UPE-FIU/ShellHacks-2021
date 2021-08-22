@@ -1,0 +1,62 @@
+{
+    "friday": [
+        {
+            "title": "Friday Event",
+            "description": "5:00PM"
+        },
+        {
+            "title": "Friday Event",
+            "description": "7:00PM"
+        },
+        {
+            "title": "Friday Event",
+            "description": "9:00PM"
+        },
+        {
+            "title": "Friday Event",
+            "description": "10:00PM"
+        },
+        {
+            "title": "Friday Event",
+            "description": "11:00PM"
+        }
+    ],
+    "saturday": [
+        {
+            "title": "Saturday Event",
+            "description": "7:00AM"
+        },
+        {
+            "title": "Saturday Event",
+            "description": "9:00AM"
+        },
+        {
+            "title": "Saturday Event",
+            "description": "2:30PM"
+        },
+        {
+            "title": "Saturday Event",
+            "description": "8:45PM"
+        }
+    ],
+    "sunday": [
+        {
+            "title": "Sunday Event",
+            "description": "3:00AM"
+        },
+        {
+            "title": "Sunday Event",
+            "description": "8:00AM"
+        },
+        {
+            "title": "Sunday Event",
+            "description": "12:00PM"
+        }
+    ],
+    "defaultDay": [
+        {
+            "title": "Event",
+            "description": "Event time"
+        }
+    ]
+}
