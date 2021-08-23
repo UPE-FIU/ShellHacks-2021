@@ -1,23 +1,7 @@
-.container {
+.pageHero {
   display: flex;
-  flex-flow: row;
-  justify-content: space-between;
+  flex-direction: column;
   align-items: center;
-  margin: 5% 0 5% 15%;
-  background-position: center;
-}
-
-.right{
-  width: 50%;
-  height: 20vw;
-}
-
-.left {
-  width: 35%;
-}
-
-.mobileImage {
-  display: none;
 }
 
 .infoSection {
@@ -25,26 +9,7 @@
 }
 
 @media screen and (max-width: 600px) {
-  .container {
-    flex-flow: column;
-    margin: 0;
-    height:auto;
-    width: 100vw;
-  }
-
-  .right{
-    display: none;
-  }
-
-  .left {
-    width: 70vw;
-  }
-
   .infoSection {
     margin: 24px 0 0 0;
-  }
-
-  .mobileImage {
-    display: inline;
   }
 }

@@ -1,7 +1,6 @@
 import InfoPanel from './Components/InfoPanel/infoPanel'
 import ImagePanel from './Components/ImagePanel/imagePanel'
 import SponsorPanel from './Components/SponsorPanel/sponsorPanel';
-import MobileImagePanel from './Components/MobileImagePanel/mobileImagePanel';
 import PartnerPanel from './Components/PartnerPanel/partnerPanel';
 import OrganizerPanel from './Components/OrganizerPanel/organizerPanel';
 import FAQPanel from './Components/FAQPanel/FAQPanel';
@@ -12,13 +11,9 @@ import './App.css';
 function App() {
   return (
     <div>
-      <div className="container">
-        <div className="left">
+      <div className="pageHero">
           <InfoPanel />
-        </div>
-        <div className= "right">
           <ImagePanel />
-        </div>
       </div>
       <section className="infoSection">
         {/* <SchedulePanel /> */}
@@ -27,9 +22,6 @@ function App() {
           <SponsorPanel />
         {/* <PartnerPanel /> */}
       </section>
-      <div className="mobileImage">
-        <MobileImagePanel />
-      </div>
     </div>
   );
 }
