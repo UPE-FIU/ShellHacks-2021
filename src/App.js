@@ -6,6 +6,7 @@ import OrganizerPanel from './Components/OrganizerPanel/organizerPanel';
 import FAQPanel from './Components/FAQPanel/FAQPanel';
 import SchedulePanel from './Components/SchedulePanel/schedulePanel';
 import './App.css';
+import AboutPanel from './Components/AboutPanel/aboutPanel';
 
 
 function App() {
@@ -14,6 +15,7 @@ function App() {
       <div className="pageHero">
           <InfoPanel />
           <ImagePanel />
+          <AboutPanel />
       </div>
       <section className="infoSection">
         {/* <SchedulePanel /> */}
