@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import './infoPanel.css'
-import ShellHacksLogo from '../../SVG/Wordmark_2.svg'
+import ShellHacksLogo from '../../SVG/SH_Logo_Pink_Slogan.svg'
 
 class infoPanel extends Component {
     render() {

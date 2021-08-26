@@ -1,22 +1,24 @@
 .infoContainer {
     display: flex;
     flex-direction: column;
-    align-items: center;
-    margin-top: 10%;
-    width: 30%;
+    justify-content: space-between;
+    align-items: center; 
+    margin-top: 20%;
+    margin-bottom: 10%;
+    width: 100%;
 }
 
 .subheading {
     font-family: 'Poppins', sans-serif;
     font-weight: 400;
     color: white;
-    font-size: 1.5vw;
-    margin-top: 0.75%;
-    margin-bottom: 0.75%;
+    font-size: clamp(1.25rem, 1.75vw, 2rem);
+    margin-top: 2%;
+    margin-bottom: 2%;
 }
 
 .shellLogo {
-    width: 100%;
+    width: 80%;
     align-items: center;
     margin-bottom: 2%;
 }
@@ -25,7 +27,7 @@
     display: flex;
     flex-flow: column;
     justify-content: center;
-    width: 80%;
+    width: 70%;
 }
 
 .buttonRow {
@@ -36,7 +38,7 @@
 
 .registerButton {
     color: rgb(255, 255, 255); 
-    font-size: 1.75vw; 
+    font-size: clamp(1.25rem, 1.75vw, 2rem); 
     line-height: 30px; 
     border-radius: 100px; 
     font-family: 'Poppins', sans-serif; 
@@ -62,7 +64,7 @@
 
 .rowButton {
     color: rgb(255, 255, 255); 
-    font-size: 1.25vw; 
+    font-size: clamp(1rem, 1.5vw, 1.5rem);
     border-radius: 100px; 
     font-family: 'Poppins', sans-serif; 
     font-weight: normal; 
@@ -77,36 +79,30 @@
     font-weight: 800;
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 768px) {
     .infoContainer {
-      display: flex;
-      flex-flow: column;
-      justify-content: space-between;
-      align-items: center;
-      width: 100%;
-      margin-top:20%;    
+        margin-top: 10%;
+        margin-bottom: 2%;
+        width: 40%;
     }
 
     .shellLogo {
-        width: 80%;
+        width: 100%;
     }
-    
+
     .subheading {
-        font-size: 5vw;
-        margin-top: 2%;
-        margin-bottom: 2%;
+        margin-top: 0.75%;
+        margin-bottom: 0.75%;        
     }
 
     .buttonsDiv {
-        width: 70%;
+        width: 80%;
     }
+}
 
-    .registerButton {
-        font-size: 5vw; 
+@media screen and (min-width: 1200px) {
+    .infoContainer {
+        margin-top: 8%;
+        width: 35%;
     }
-
-    .rowButton {
-        font-size: 4vw; 
-    }
-    
-  }
+}
