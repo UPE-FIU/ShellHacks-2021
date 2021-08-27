@@ -30,7 +30,7 @@
 
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 600px) {
     .sponsorContainer {
         margin-top: 0;
         padding-top: 3%;

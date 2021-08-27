@@ -43,7 +43,7 @@
     color: #24b2c0;
 }
 
-@media screen and (min-width: 768px) {
+@media screen and (min-width: 600px) {
     .coHostContainer {
         margin: 5% 10% 0 10%;
     }
