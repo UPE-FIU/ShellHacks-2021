@@ -48,16 +48,23 @@
         margin: 5% 10% 0 10%;
     }
 
+    .coHostLogo {
+        width: 60%;
+    }
+
+    .coHostTitle {
+        margin-bottom: 2%;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
     .coHostInfo {
         flex-direction: row;
     }
 
     .coHostLogo {
         width: 45%;
-    }
-
-    .coHostTitle {
-        margin-bottom: 2%;
     }
 
     .coHostText {
