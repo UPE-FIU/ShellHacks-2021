@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
-import './imagePanel.css'
-import FullSkyline from '../../SVG/Full_Skyline_No_Clouds.svg'
+import './imagePanel.css';
+import FullSkyline from '../../SVG/Full_Skyline_No_Clouds.png';
 
 class imagePanel extends Component {
     render() {
