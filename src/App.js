@@ -7,20 +7,24 @@ import FAQPanel from './Components/FAQPanel/FAQPanel';
 import SchedulePanel from './Components/SchedulePanel/schedulePanel';
 import './App.css';
 import AboutPanel from './Components/AboutPanel/aboutPanel';
+import CoHostPanel from './Components/CoHostPanel/coHostPanel';
 
 
 function App() {
   return (
     <div>
       <div className="pageHero">
-          <InfoPanel />
-          <ImagePanel />
-          <AboutPanel />
+        <InfoPanel />
+        <ImagePanel />
+        <AboutPanel />
+      </div>
+      <div className="sandBackground">
+        <FAQPanel />
+        <OrganizerPanel />
+        <CoHostPanel />
       </div>
       <section className="infoSection">
         {/* <SchedulePanel /> */}
-          <FAQPanel />
-          <OrganizerPanel />
           <SponsorPanel />
         {/* <PartnerPanel /> */}
       </section>

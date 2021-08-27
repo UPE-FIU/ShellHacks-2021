@@ -2,28 +2,31 @@
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 3%;
 }
 
-.title {
-    font-family: 'canada-type-gibson',sans-serif;
+.FAQTitle {
+    margin-bottom: 5%;
+    font-family: 'Poppins',sans-serif;
     font-weight: 900;
-    font-size: 1.5vw;
+    font-size: clamp(1.25rem, 1.75vw, 2rem);
+    font-style: italic;
     display: inline-block;
-    color: #24b2c0;
+    color: white;
 }
 
 .FAQList {
     display: flex;
     flex-direction: column;
-    width: 100%;
+    width: 90%;
 }
 
-.FAQ {
+.FAQItem {
     border-radius: 5px;
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    width: 95%;
+    width: 100%;
     margin: 0 auto 20px;
 }
 
@@ -44,58 +47,57 @@
 }
 
 .question {
-    font-family: 'canada-type-gibson',sans-serif;
+    width: 100%;
+
+    font-family: 'Poppins',sans-serif;
     font-weight: 600;
-    font-size: 1.5rem;
+    font-size: clamp(1.25rem, 1.75vw, 1.75rem);
     display: inline-block;
     color: white;
 }
 
+.question:before {
+    content:  url(../../SVG/plus.svg);
+    display: inline-block;
+    width: clamp(1rem, 1.75vw, 1.75rem);
+    vertical-align: -1%;
+    margin-right: 2%;
+}
+
 .answer {
     font-weight: 500;
-    font-size: 1.4rem;
+    font-size: clamp(1rem, 1.5vw, 1.5rem);
     font-family: 'Poppins', sans-serif;
     text-align: left;
     color: white;
     margin: 10px;
 }
 
-.plus {
-    width: 20px;
-    height: 20px;
-    align-self: center;
-    margin: 0 16px 0 0;
+.FAQImg {
+    margin-top: 5%;
+    width: 80%;
 }
 
-
-@media screen and (max-width: 600px) {
+@media screen and (min-width: 768px) {
     .FAQContainer {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        margin: 16px 0 0 0;
+        margin-top: 0;
     }
 
+    .FAQTitle {
+        margin-bottom: 2%;
+    }
+    
     .FAQList {
-        width: 90%;
+        width: 80%;
     }
-
-    .question {
-        font-size: 1.25rem;
+    
+    .FAQItem {
+        border-radius: 5px;
     }
+}
 
-    .answer {
-        font-size: 1rem;
-    }
-
-    .plus {
-        width: 5vw;
-        height: 5vw;
-    }
-
-    .title {
-        font-size: 5vw;
-        margin-top: 2%;
-        margin-bottom: 4%;
+@media screen and (min-width: 1200px) {
+    .question:before {
+        vertical-align: -5%;
     }
 }

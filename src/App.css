@@ -6,6 +6,11 @@
   background-size: cover; 
 }
 
+.sandBackground {
+  background-image: url(./SVG/Sand_Background.svg);
+  background-size: cover; 
+}
+
 .infoSection {
   margin: 2% 10%;
 }
