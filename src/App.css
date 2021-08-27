@@ -2,17 +2,17 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  background-image: url(./SVG/Blue_Background.svg);
+  background-image: linear-gradient(#0bd1d2 0%, #24b2c0 100%);
   background-size: cover; 
 }
 
 .sandBackground {
-  background-image: url(./SVG/Sand_Background.svg);
+  background-image: linear-gradient(#ffe0ac 0%, #dab984 100%);
   background-size: cover; 
 }
 
 .blueBackground {
-  background-image: url(./SVG/Blue_Background.svg);
+  background-image: linear-gradient(#0bd1d2 0%, #24b2c0 100%);
   background-size: cover; 
 }
 
