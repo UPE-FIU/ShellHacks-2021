@@ -11,4 +11,9 @@ class imagePanel extends Component {
         )
     }
 }
+
+imagePanel.propTypes = {
+    imageName: PropTypes.string.isRequired
+}
+
 export default imagePanel;
