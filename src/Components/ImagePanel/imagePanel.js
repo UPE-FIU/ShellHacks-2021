@@ -6,7 +6,7 @@ class imagePanel extends Component {
     render() {
         return (
             <div className="imageContainer">
-                <img src={FullSkyline} alt='Full Skyline' id='fullSky'/>
+                <img className="fullSkyline" src={FullSkyline} alt='Full Skyline' />
             </div>
         )
     }
