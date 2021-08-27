@@ -23,7 +23,7 @@
 
     font-family: 'Poppins',sans-serif;
     font-weight: 900;
-    font-size: clamp(1.25rem, 1.75vw, 2rem);
+    font-size: clamp(1.5rem, 3vw, 3rem);
     font-style: italic;
     display: inline-block;
     color: white;
@@ -37,7 +37,7 @@
     width: 85%;
 
     font-weight: 500;
-    font-size: clamp(1rem, 1.5vw, 1.5rem);
+    font-size: clamp(1rem, 1.5vw, 1.25rem);
     font-family: 'Poppins', sans-serif;
     text-align: left;
     color: #24b2c0;
@@ -45,8 +45,7 @@
 
 @media screen and (min-width: 768px) {
     .coHostContainer {
-        margin: 5% 10%;
-        padding-bottom: 5%;
+        margin: 5% 10% 0 10%;
     }
 
     .coHostInfo {
@@ -63,5 +62,6 @@
 
     .coHostText {
         width: 50%;
+        margin-top: 0;
     }
 }

@@ -2,14 +2,6 @@ import React, { Component } from 'react';
 import './coHostPanel.css';
 import OKCoin from '../../SVG/Sponsors/OKCoin.svg';
 
-/*
-    How to add a Co-Host:
-        - Add Co-Host website url to href on line 15
-        - Import logo and insert it into src on line 17
-        - Add co-host description to the p on line 20
-        - Copy line 17 - 23 to create a second co-host if needed
-*/
-
 class CoHostPanel extends Component {
     render() {
         return (

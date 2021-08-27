@@ -1,5 +1,5 @@
 body, html {
-    height: 100vh;
+    height: 100%;
     background-image: linear-gradient(rgba(57,192,222,1) 0%, rgba(197,245,235,1) 90%);
     background-size: cover;
     margin:  0;

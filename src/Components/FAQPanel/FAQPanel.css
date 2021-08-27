@@ -9,7 +9,7 @@
     margin-bottom: 5%;
     font-family: 'Poppins',sans-serif;
     font-weight: 900;
-    font-size: clamp(1.25rem, 1.75vw, 2rem);
+    font-size: clamp(1.5rem, 3vw, 3rem);
     font-style: italic;
     display: inline-block;
     color: white;
@@ -51,7 +51,7 @@
 
     font-family: 'Poppins',sans-serif;
     font-weight: 600;
-    font-size: clamp(1.25rem, 1.75vw, 1.75rem);
+    font-size: clamp(1.25rem, 1.75vw, 1.5rem);
     display: inline-block;
     color: white;
 }
@@ -59,14 +59,14 @@
 .question:before {
     content:  url(../../SVG/plus.svg);
     display: inline-block;
-    width: clamp(1rem, 1.75vw, 1.75rem);
+    width: clamp(1rem, 1.75vw, 1.5rem);
     vertical-align: -1%;
     margin-right: 2%;
 }
 
 .answer {
     font-weight: 500;
-    font-size: clamp(1rem, 1.5vw, 1.5rem);
+    font-size: clamp(1rem, 1.5vw, 1.25rem);
     font-family: 'Poppins', sans-serif;
     text-align: left;
     color: white;

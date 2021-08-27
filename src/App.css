@@ -11,6 +11,11 @@
   background-size: cover; 
 }
 
+.blueBackground {
+  background-image: url(./SVG/Blue_Background.svg);
+  background-size: cover; 
+}
+
 .infoSection {
   margin: 2% 10%;
 }
