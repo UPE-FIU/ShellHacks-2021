@@ -1,0 +1,81 @@
+.sponsorContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3%;
+}
+
+.sponsorLogoContainer {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items:center;
+    width: 100%;
+}
+    
+.sponsorLogo {
+    /* height: 100px; */
+    width: 90%;
+    padding-bottom: 5%;
+}
+
+.sponsorsTitle {
+    font-family: 'Poppins',sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.5rem, 3vw, 3rem);
+    font-style: italic;
+    display: inline-block;
+    color: white;
+
+}
+
+@media screen and (min-width: 600px) {
+    .sponsorContainer {
+        margin-top: 0;
+        padding-top: 3%;
+    }
+
+    .sponsorLogoContainer {
+        flex-direction: row;
+    }
+
+    .sponsorLogo {
+        width: 100%;
+        height: auto;
+    }
+
+    .sponsorLogo.conch {
+        width: 100%;
+        height:auto;
+        display: inline-flex;
+        justify-content: center;
+        align-items: center;
+        padding: 16px;
+    }
+    
+    .sponsorLogo.cone {
+        width: 40%;
+        padding: 12px;
+    }
+    
+    .sponsorLogo.scallop {
+        width: 33%;
+        padding: 10px;
+    }
+    
+    .sponsorLogo.sand_dollar {
+        width: 25%;
+        padding: 8px;
+    }
+    
+    .sponsorLogo.in-kind {
+        width: 25%;
+        padding: 8px;
+    }
+    
+    .bigLogo {
+        max-width: 600px;
+        align-self: center;
+    }
+}

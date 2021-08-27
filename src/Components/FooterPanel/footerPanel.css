@@ -1,0 +1,69 @@
+.footerContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 6%;
+    overflow: hidden;
+}
+
+.footerSwimmer {
+    width: 60%;
+}
+
+.footerSocials {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 5% 0;
+}
+
+.footerLogo {
+    width: 10%;
+    margin: 0 10px;
+}
+
+.footerLogoImg {
+    width: 100%;
+}
+
+.footerMessage {
+    margin-bottom: 5%;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.5rem, 3vw, 3rem);
+    font-style: italic;
+    display: inline-block;
+    background: white;
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.footerOceanFloor {
+    width: 200%;
+    position: relative;
+    z-index: -99;
+    margin-top: -50%;
+    margin-bottom: -32%;
+}
+
+@media screen and (min-width: 600px) {
+    .footerSwimmer {
+        width: 30%;
+    }
+    
+    .footerSocials {
+        padding: 2% 0;
+    }
+    
+    .footerLogo {
+        width: 5%;
+    }
+    
+    .footerOceanFloor {
+        width: 100%;
+        margin-top: -25%;
+        margin-bottom: -16%;
+    }
+}

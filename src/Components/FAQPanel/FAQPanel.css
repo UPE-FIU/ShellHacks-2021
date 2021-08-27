@@ -1,0 +1,108 @@
+.FAQContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 3%;
+}
+
+.FAQTitle {
+    margin-bottom: 5%;
+    font-family: 'Poppins',sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.5rem, 3vw, 3rem);
+    font-style: italic;
+    display: inline-block;
+    color: white;
+}
+
+.FAQList {
+    display: flex;
+    flex-direction: column;
+    width: 90%;
+}
+
+.FAQItem {
+    border-radius: 5px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    margin: 0 auto 20px;
+}
+
+.questionContainer {
+    border-radius: 10px;
+    padding: 10px 20px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.selectedBackground {
+    background-image: linear-gradient(to right, rgb(255, 72, 142) 0%, rgb(255, 127, 148) 100%);
+}
+
+.unselectedBackground {
+    background-image: linear-gradient(to right, #24b2c0  0%, #0bd1d2 100%);
+}
+
+.question {
+    width: 100%;
+
+    font-family: 'Poppins',sans-serif;
+    font-weight: 600;
+    font-size: clamp(1.25rem, 1.75vw, 1.5rem);
+    display: inline-block;
+    color: white;
+}
+
+.question:before {
+    content:  url(../../SVG/plus.svg);
+    display: inline-block;
+    width: clamp(1rem, 1.75vw, 1.5rem);
+    vertical-align: -1%;
+    margin-right: 2%;
+}
+
+.answer {
+    background-color: white;
+    border-radius: 0 0 10px 10px;
+    padding: 36px;
+    width: 100%;
+    margin: -8px 0 0 0;
+    
+    font-weight: 500;
+    font-size: clamp(1rem, 1.5vw, 1.25rem);
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    color: #24b2c0;
+}
+
+.FAQImg {
+    margin-top: 5%;
+    width: 80%;
+}
+
+@media screen and (min-width: 600px) {
+    .FAQContainer {
+        margin-top: 0;
+    }
+
+    .FAQTitle {
+        margin-bottom: 2%;
+    }
+    
+    .FAQList {
+        width: 80%;
+    }
+    
+    .FAQItem {
+        border-radius: 5px;
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    .question:before {
+        vertical-align: -5%;
+    }
+}

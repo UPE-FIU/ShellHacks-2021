@@ -1,0 +1,74 @@
+.coHostContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10%;
+    padding-bottom: 5%;
+}
+
+.coHostInfo {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    justify-content: space-between;
+}
+
+.coHostLogo {
+    width: 85%;
+}
+
+.coHostTitle {
+    margin-bottom: 5%;
+
+    font-family: 'Poppins',sans-serif;
+    font-weight: 900;
+    font-size: clamp(1.5rem, 3vw, 3rem);
+    font-style: italic;
+    display: inline-block;
+    color: white;
+}
+
+.coHostText {
+    background-color: white;
+    border-radius: 48px;
+    padding: 36px;
+    margin: 16px 0 0 0;
+    width: 85%;
+
+    font-weight: 500;
+    font-size: clamp(1rem, 1.5vw, 1.25rem);
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    color: #24b2c0;
+}
+
+@media screen and (min-width: 600px) {
+    .coHostContainer {
+        margin: 5% 10% 0 10%;
+    }
+
+    .coHostLogo {
+        width: 60%;
+    }
+
+    .coHostTitle {
+        margin-bottom: 2%;
+    }
+
+}
+
+@media screen and (min-width: 1200px) {
+    .coHostInfo {
+        flex-direction: row;
+    }
+
+    .coHostLogo {
+        width: 45%;
+    }
+
+    .coHostText {
+        width: 50%;
+        margin-top: 0;
+    }
+}

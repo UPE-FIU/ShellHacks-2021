@@ -1,0 +1,117 @@
+[
+    {
+        "name": "Google",
+        "tier": "cone",
+        "url": "https://www.google.com/",
+        "logo": "Google.svg"
+    },    
+    {
+        "name": "Microsoft",
+        "tier": "cone",
+        "url": "https://www.microsoft.com/en-us/",
+        "logo": "Microsoft.svg"
+    },    
+    {
+        "name": "Facebook",
+        "tier": "cone",
+        "url": "https://www.facebook.com/",
+        "logo": "Facebook.svg"
+    },
+    {
+        "name": "Salesforce",
+        "tier": "cone",
+        "url": "https://www.salesforce.com/",
+        "logo": "Salesforce.svg"
+    },
+    {
+        "name": "Taxfyle",
+        "tier": "cone",
+        "url": "https://www.taxfyle.com/",
+        "logo": "Taxfyle.svg"
+    },
+    {
+        "name": "MetLife",
+        "tier": "cone",
+        "url": "https://www.metlife.com/",
+        "logo": "Metlife.svg"
+    },
+    {
+        "name": "Linode",
+        "tier": "cone",
+        "url": "https://www.linode.com/",
+        "logo": "Linode.svg"
+    },
+    {
+        "name": "Google Cloud Platform",
+        "tier": "cone",
+        "url": "https://cloud.google.com/",
+        "logo": "GCP.svg"
+    },
+    {
+        "name": "CodePath",
+        "tier": "cone",
+        "url": "https://codepath.org/",
+        "logo": "CodePath.svg"
+    }, 
+    {
+        "name": "Sketch",
+        "tier": "cone",
+        "url": "https://www.sketch.com/",
+        "logo": "Sketch.svg"
+    },
+    {
+        "name": "Digital Ocean",
+        "tier": "cone",
+        "url": "https://www.digitalocean.com/",
+        "logo": "DigitalOcean.svg"
+    },
+    {
+        "name": "Balsamiq",
+        "tier": "cone",
+        "url": "https://balsamiq.com/",
+        "logo": "Balsamiq.svg"
+    },
+    {
+        "name": "Twilio",
+        "tier": "cone",
+        "url": "https://www.twilio.com/",
+        "logo": "Twilio.svg"  
+    },
+    {
+        
+        "name": "Wolfram Language",
+        "tier": "cone",
+        "url": "https://www.wolfram.com/language/",
+        "logo": "Wolfram.svg"
+    },
+    {
+        "name": "Florida Panthers",
+        "tier": "cone",
+        "url": "https://www.nhl.com/panthers",
+        "logo": "FloridaPanthers.svg"
+    },
+    {
+        "name": "JetBrains",
+        "tier": "cone",
+        "url": "https://www.jetbrains.com/",
+        "logo": "JetBrains.svg"
+    },
+    {
+        "name": "Replit",
+        "tier": "cone",
+        "url": "https://replit.com/",
+        "logo": "Replit.svg"  
+    },
+    {
+        "name": "1517",
+        "tier": "cone",
+        "url": "https://www.1517.org/",
+        "logo": "1517.svg"
+    },
+    {
+        "name": "EchoAR",
+        "tier": "cone",
+        "url": "https://www.echoar.xyz/",
+        "logo": "EchoAR.svg"
+    }
+]

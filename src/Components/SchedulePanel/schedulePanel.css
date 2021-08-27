@@ -1,0 +1,117 @@
+.scheduleContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.title {
+    font-family: 'canada-type-gibson',sans-serif;
+    font-weight: 900;
+    font-size: 1.5vw;
+    display: inline-block;
+    color: #24b2c0;
+}
+
+.scheduleButtonContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.scheduleButton {
+    border-radius: 100px;
+    padding: 12px;
+    margin: 0 16px;
+}
+
+.selectedButtonBackground {
+    background-image: linear-gradient(to right, rgb(255, 72, 142) 0%, rgb(255, 127, 148) 100%);
+}
+
+.unselectedButtonBackground {
+    background-image: linear-gradient(to right, #24b2c0  0%, #0bd1d2 100%);
+}
+
+.scheduleButtonTitle {
+    font-family: 'canada-type-gibson',sans-serif;
+    font-weight: 600;
+    font-size: 1.5rem;
+    display: inline-block;
+    color: white;
+    margin: 8px;
+}
+
+.scheduleList {
+    margin-top: 16px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.scheduleItem {
+    margin: 8px 0;
+}
+
+.scheduleItemTitle {
+    font-family: 'canada-type-gibson',sans-serif;
+    font-weight: 600;
+    font-size: 2rem;
+    display: inline-block;
+    color: white;
+    margin: 0;
+}
+
+.scheduleItemDescription {
+    font-weight: 500;
+    font-size: 1.5rem;
+    font-family: 'Poppins', sans-serif;
+    text-align: left;
+    color: white;
+    margin: 0;
+}
+
+@media screen and (max-width: 600px) {
+    .scheduleContainer {
+        margin: 16px 0 0 0;
+    }
+
+    .title {
+        font-size: 5vw;
+        margin-top: 2%;
+        margin-bottom: 4%;
+    }
+
+    .scheduleButtonContainer {
+        flex-direction: column;
+    }
+
+    .scheduleButton {
+        margin: 4px 16px;
+        width: 90%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .scheduleButtonTitle {
+        font-size: 5vw;
+    }
+
+    .scheduleList {
+        justify-content: flex-start;
+        align-items: flex-start;
+        width: 80%;
+    }
+
+    .scheduleItemTitle {
+        font-size: 6vw;
+    }
+
+    .scheduleItemDescription {
+        font-size: 5vw;
+    }
+}
