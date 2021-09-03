@@ -7,6 +7,7 @@ import FAQPanel from './Components/FAQPanel/FAQPanel';
 import AboutPanel from './Components/AboutPanel/aboutPanel';
 import CoHostPanel from './Components/CoHostPanel/coHostPanel';
 import FooterPanel from './Components/FooterPanel/footerPanel';
+import TrackPanel from './Components/TrackPanel/trackPanel';
 
 function App() {
   return (
@@ -15,6 +16,9 @@ function App() {
         <InfoPanel />
         <ImagePanel />
         <AboutPanel />
+      </div>
+      <div className="pinkBackground">
+        <TrackPanel />
       </div>
       <div className="sandBackground">
         <FAQPanel />
