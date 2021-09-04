@@ -8,6 +8,7 @@ import AboutPanel from './Components/AboutPanel/aboutPanel';
 import CoHostPanel from './Components/CoHostPanel/coHostPanel';
 import FooterPanel from './Components/FooterPanel/footerPanel';
 import TrackPanel from './Components/TrackPanel/trackPanel';
+import SchedulePanel from './Components/SchedulePanel/schedulePanel';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
       </div>
       <div className="pinkBackground">
         <TrackPanel />
+        <SchedulePanel />
       </div>
       <div className="sandBackground">
         <FAQPanel />

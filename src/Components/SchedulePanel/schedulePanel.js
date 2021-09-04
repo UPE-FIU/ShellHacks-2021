@@ -2,12 +2,13 @@ import React, { Component } from 'react';
 import './schedulePanel.css';
 import PropTypes from 'prop-types';
 import schedule from '../../config/data/schedule.json';
+import ShortSkyline from '../../SVG/Short_Skyline.svg';
 
 function ScheduleButton(props) {
     const handleClick = () => props.action(props.id);
 
     return (
-        <div className={["scheduleButton", props.isSelected ? "selectedButtonBackground" : "unselectedButtonBackground"].join(" ")} onClick={handleClick}>
+        <div className={["scheduleButton", props.isSelected ? "selectedButton" : "unselectedButton"].join(" ")} onClick={handleClick}>
             <p className="scheduleButtonTitle">{props.title}</p>
         </div>
     );
@@ -66,17 +67,18 @@ class SchedulePanel extends Component {
 
         return (
             <div className="scheduleContainer">
-                <h1 className="title">Schedule</h1>
+                <h1 className="scheduleTitle">Schedule</h1>
                 <div className="scheduleButtonContainer">
-                    <ScheduleButton title="Friday, September 24th" id={1} isSelected={this.state.day === 1} action={setDay} />
-                    <ScheduleButton title="Saturday, September 25th" id={2} isSelected={this.state.day === 2} action={setDay} />
-                    <ScheduleButton title="Sunday, September 26th" id={3} isSelected={this.state.day === 3} action={setDay} />
+                    <ScheduleButton title="Friday, Sept. 24" id={1} isSelected={this.state.day === 1} action={setDay} />
+                    <ScheduleButton title="Saturday, Sept. 25" id={2} isSelected={this.state.day === 2} action={setDay} />
+                    <ScheduleButton title="Sunday, Sept. 26" id={3} isSelected={this.state.day === 3} action={setDay} />
                 </div>
                 <div className="scheduleList">
                     {
                         daySchedule && daySchedule.map((event, index) => <ScheduleItem title={event.title} description={event.description} key={index} />)
                     }
                 </div>
+                <img className="scheduleImage" alt="Short Skyline" src={ShortSkyline} />
             </div>
         )
     }

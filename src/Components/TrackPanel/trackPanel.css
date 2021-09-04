@@ -3,7 +3,8 @@
     flex-direction: column;
     justify-content: space-evenly;
     align-items: center;
-    margin: 0 auto;
+    padding-left: 5%;
+    padding-right: 5%;
     width: 100%;
 }
 
@@ -47,6 +48,11 @@
     width: 100%;
 }
 
+.trackImage {
+    width: 80%;
+    margin: 2% 0;
+}
+
 @media screen and (min-width: 600px) {
     .trackItemContainer {
         flex-direction: row;
@@ -59,5 +65,10 @@
 
     .track {
         flex-basis: 20%;
+    }
+
+    .trackImage {
+        width: 50%;
+        margin: 2% 0;
     }
 }

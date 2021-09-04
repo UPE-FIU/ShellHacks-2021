@@ -8,6 +8,7 @@ import GameTrack from '../../SVG/Tracks/Game_Track.svg';
 import ITTrack from '../../SVG/Tracks/IT_Track.svg';
 import HardwareTrack from '../../SVG/Tracks/Hardware_Track.svg';
 import DesignTrack from '../../SVG/Tracks/Design_Track.svg';
+import Whale from '../../SVG/Whale.svg';
 
 function TrackItem(props) {
 
@@ -39,6 +40,7 @@ class TrackPanel extends Component {
                     <TrackItem icon={HardwareTrack} title="Hardware" />
                     <TrackItem icon={DesignTrack} title="Product Design & Mgnt" />
                 </div>
+                <img className="trackImage" alt="Whale" src={Whale} />
             </div>
         );
     }
