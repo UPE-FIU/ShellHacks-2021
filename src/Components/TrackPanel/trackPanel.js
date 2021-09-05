@@ -40,7 +40,7 @@ class TrackPanel extends Component {
                     <TrackItem icon={GameTrack} title="Game Development" body="Create virtual experiences to bring worlds to life" />
                     <TrackItem icon={ITTrack} title="IT & Cybersecurity" body="Dive into the world of cybersecurity, ethical hacking and more" />
                     <TrackItem icon={HardwareTrack} title="Hardware" body="Get down to the root of computers to solve real-world problems" />
-                    <TrackItem icon={DesignTrack} title="Design & Project Mgnt" body="Design user-friendly interfaces for products" />
+                    <TrackItem icon={DesignTrack} title="Design & Project Management" body="Design user-friendly interfaces for products" />
                 </div>
                 <img className="trackImage" alt="Whale" src={Whale} />
             </div>

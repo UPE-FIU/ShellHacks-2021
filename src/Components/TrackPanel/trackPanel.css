@@ -85,7 +85,4 @@
 }
 
 @media screen and (min-width: 1200px) {
-    .track {
-        flex-basis: 20%;
-    }
 }
