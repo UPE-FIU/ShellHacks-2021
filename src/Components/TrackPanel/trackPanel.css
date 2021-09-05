@@ -41,8 +41,7 @@
     font-size: clamp(1.25rem, 1.75vw, 1.5rem);
     display: inline-block;
     color: white;
-
-    margin: 2%;
+    margin-bottom: 2%;
 }
 
 .trackIcon {
