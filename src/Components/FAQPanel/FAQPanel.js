@@ -9,8 +9,8 @@ function FAQItem(props) {
     const handleClick = () => setSelected(!selected);
 
     return (
-        <div className="FAQItem" onClick={handleClick}>
-            <div className={["questionContainer", selected ? "selectedBackground" : "unselectedBackground"].join(" ")}>
+        <div className="FAQItem">
+            <div className={["questionContainer", selected ? "selectedBackground" : "unselectedBackground"].join(" ")} onClick={handleClick}>
                 <h2 className="question">{props.question}</h2>
             </div>
             {selected ?

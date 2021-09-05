@@ -6,6 +6,13 @@
   background-size: cover; 
 }
 
+.pinkBackground {
+  background-image: linear-gradient(#ff7f94 0%, #ff488e 100%);
+  background-size: cover; 
+  padding-top: 3%;
+  padding-bottom: 3%;
+}
+
 .sandBackground {
   background-image: linear-gradient(#ffe0ac 0%, #dab984 100%);
   background-size: cover; 

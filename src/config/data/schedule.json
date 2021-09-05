@@ -1,56 +1,52 @@
 {
     "friday": [
         {
-            "title": "Friday Event",
-            "description": "5:00PM"
+            "title": "Check-In",
+            "description": "6:00 PM - 7:00 PM EST | Discord & Hopin"
         },
         {
-            "title": "Friday Event",
-            "description": "7:00PM"
+            "title": "Opening Ceremony",
+            "description": "7:00 PM - 8:00 PM EST | Hopin"
         },
         {
-            "title": "Friday Event",
-            "description": "9:00PM"
+            "title": "Sponsor Fair",
+            "description": "8:00 PM - 10:00 PM EST | Hopin"
         },
         {
-            "title": "Friday Event",
-            "description": "10:00PM"
+            "title": "Hacking Begins!",
+            "description": "10:00 PM EST"
         },
         {
-            "title": "Friday Event",
-            "description": "11:00PM"
+            "title": "Team Building Activity",
+            "description": "10:00 PM - 11:00 PM EST | Zoom"
+        },
+        {
+            "title": "Workshops & Activities",
+            "description": "Hosted throughout the night. More details coming soon!"
         }
     ],
     "saturday": [
         {
-            "title": "Saturday Event",
-            "description": "7:00AM"
-        },
-        {
-            "title": "Saturday Event",
-            "description": "9:00AM"
-        },
-        {
-            "title": "Saturday Event",
-            "description": "2:30PM"
-        },
-        {
-            "title": "Saturday Event",
-            "description": "8:45PM"
+            "title": "Workshops & Activities",
+            "description": "Hosted throughout the day & night. More details coming soon!"
         }
     ],
     "sunday": [
         {
-            "title": "Sunday Event",
-            "description": "3:00AM"
+            "title": "Hacking Ends!",
+            "description": "10:00 AM EST"
         },
         {
-            "title": "Sunday Event",
-            "description": "8:00AM"
+            "title": "Project Submissions on Devpost",
+            "description": "10:00 AM - 12:00 PM EST"
         },
         {
-            "title": "Sunday Event",
-            "description": "12:00PM"
+            "title": "Project Expo & Judging",
+            "description": "12:00 PM - 2 PM EST"
+        },
+        {
+            "title": "Closing Ceremony",
+            "description": "2:00 PM - 3:00 PM EST | Hopin"
         }
     ],
     "defaultDay": [
