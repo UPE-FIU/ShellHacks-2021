@@ -9,11 +9,13 @@ import CoHostPanel from './Components/CoHostPanel/coHostPanel';
 import FooterPanel from './Components/FooterPanel/footerPanel';
 import TrackPanel from './Components/TrackPanel/trackPanel';
 import SchedulePanel from './Components/SchedulePanel/schedulePanel';
+import MLHBadge from './Components/MLHBadge/MLHBadge';
 
 function App() {
   return (
     <div>
       <div className="pageHero">
+        <MLHBadge />
         <InfoPanel />
         <ImagePanel />
         <AboutPanel />

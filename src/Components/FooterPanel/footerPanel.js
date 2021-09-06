@@ -31,6 +31,9 @@ class FooterPanel extends Component {
                     </a>
                 </div>
                 <h2 className="footerMessage">With 🤍 from ShellHacks</h2>
+                <a className="footerMLHLink" href="http://mlh.io/code-of-conduct" target="_blank" rel="noreferrer noopoener">
+                    <p className="footerMLHText">MLH Code of Conduct</p>
+                </a>
                 <img className="footerOceanFloor" src={OceanFloor} alt="Ocean Floor" />
             </div>
         )

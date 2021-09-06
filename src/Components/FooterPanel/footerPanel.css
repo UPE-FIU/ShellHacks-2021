@@ -30,7 +30,6 @@
 }
 
 .footerMessage {
-    margin-bottom: 5%;
     font-family: 'Poppins',sans-serif;
     font-weight: 900;
     font-size: clamp(1.5rem, 3vw, 3rem);
@@ -48,6 +47,18 @@
     z-index: -99;
     margin-top: -50%;
     margin-bottom: -32%;
+}
+
+.footerMLHLink {
+    text-decoration: none;
+}
+
+.footerMLHText {
+    font-family: 'Poppins', sans-serif;
+    font-size: clamp(1rem, 1.5vw, 1.5rem);
+    font-weight: 600;  
+    color: #ffe0ac;
+    margin: 0;
 }
 
 @media screen and (min-width: 600px) {
