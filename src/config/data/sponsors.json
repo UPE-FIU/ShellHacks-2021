@@ -84,6 +84,12 @@
         "logo": "Vanguard.svg"
     },
     {
+        "name": "Southwest",
+        "tier": "cone",
+        "url": "https://www.southwest.com/",
+        "logo": "Southwest.svg"
+    },
+    {
         "name": "Courier",
         "tier": "cone",
         "url": "https://www.courier.com/",
