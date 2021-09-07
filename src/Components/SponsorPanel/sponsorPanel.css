@@ -2,7 +2,6 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding-top: 3%;
 }
 
 .sponsorLogoContainer {
@@ -32,7 +31,8 @@
 @media screen and (min-width: 600px) {
     .sponsorContainer {
         margin-top: 0;
-        padding-top: 3%;
+        padding-left: 10%;
+        padding-right: 10%;
     }
 
     .sponsorLogoContainer {
@@ -42,6 +42,7 @@
     .sponsorLogo {
         width: 100%;
         height: auto;
+        padding: 16px;
     }
 
     .sponsorLogo.conch {
@@ -50,27 +51,22 @@
         display: inline-flex;
         justify-content: center;
         align-items: center;
-        padding: 16px;
     }
     
     .sponsorLogo.cone {
-        width: 40%;
-        padding: 12px;
+        width: 33%;
     }
     
     .sponsorLogo.scallop {
         width: 33%;
-        padding: 10px;
     }
     
     .sponsorLogo.sand_dollar {
         width: 25%;
-        padding: 8px;
     }
     
     .sponsorLogo.in-kind {
         width: 25%;
-        padding: 8px;
     }
     
     .bigLogo {
