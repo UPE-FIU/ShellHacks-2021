@@ -16,7 +16,7 @@ class infoPanel extends Component {
                     <a href="https://airtable.com/shrw0Nxg4xHaIGjSC" className="registerButton">Register Now!</a>
                     <div className="buttonRow">
                         <a href="https://discord.gg/upefiu" className="rowButton">Join Discord</a>
-                        <a href="mailto:Upe@fiu.edu?subject=We want to sponsor" className="rowButton">Sponsor Us</a>
+                        <a href="mailto:Upe@fiu.edu?subject=ShellHacks Sponsorship Inquiry" className="rowButton">Sponsor Us</a>
                     </div>
                 </div>
             </div>
