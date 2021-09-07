@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.76426f67.chunk.css",
-    "main.js": "/static/js/main.14891f15.chunk.js",
-    "main.js.map": "/static/js/main.14891f15.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.28182279.js",
-    "runtime-main.js.map": "/static/js/runtime-main.28182279.js.map",
+    "main.css": "/static/css/main.f8aab8e3.chunk.css",
+    "main.js": "/static/js/main.684739e3.chunk.js",
+    "main.js.map": "/static/js/main.684739e3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b2683442.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b2683442.js.map",
     "static/js/2.1616bda2.chunk.js": "/static/js/2.1616bda2.chunk.js",
     "static/js/2.1616bda2.chunk.js.map": "/static/js/2.1616bda2.chunk.js.map",
-    "static/js/3.d30412e6.chunk.js": "/static/js/3.d30412e6.chunk.js",
-    "static/js/3.d30412e6.chunk.js.map": "/static/js/3.d30412e6.chunk.js.map",
+    "static/js/3.f4bc58c3.chunk.js": "/static/js/3.f4bc58c3.chunk.js",
+    "static/js/3.f4bc58c3.chunk.js.map": "/static/js/3.f4bc58c3.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.76426f67.chunk.css.map": "/static/css/main.76426f67.chunk.css.map",
+    "static/css/main.f8aab8e3.chunk.css.map": "/static/css/main.f8aab8e3.chunk.css.map",
     "static/js/2.1616bda2.chunk.js.LICENSE.txt": "/static/js/2.1616bda2.chunk.js.LICENSE.txt",
     "static/media/1517.svg": "/static/media/1517.2ed951b2.svg",
     "static/media/AI_Track.6344e483.svg": "/static/media/AI_Track.6344e483.svg",
@@ -63,7 +63,6 @@
     "static/media/Sketch.svg": "/static/media/Sketch.2f4878ae.svg",
     "static/media/Southwest.svg": "/static/media/Southwest.00038c75.svg",
     "static/media/Swimmer.42562baf.svg": "/static/media/Swimmer.42562baf.svg",
-    "static/media/Taxfyle.svg": "/static/media/Taxfyle.780bffe6.svg",
     "static/media/Twilio.svg": "/static/media/Twilio.0f7aceaf.svg",
     "static/media/UPE_Logo.e16d0b5f.svg": "/static/media/UPE_Logo.e16d0b5f.svg",
     "static/media/Vanguard.svg": "/static/media/Vanguard.29c53aef.svg",
@@ -81,9 +80,9 @@
     "static/media/twitter.4e5d640e.svg": "/static/media/twitter.4e5d640e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.28182279.js",
+    "static/js/runtime-main.b2683442.js",
     "static/js/2.1616bda2.chunk.js",
-    "static/css/main.76426f67.chunk.css",
-    "static/js/main.14891f15.chunk.js"
+    "static/css/main.f8aab8e3.chunk.css",
+    "static/js/main.684739e3.chunk.js"
   ]
 }
