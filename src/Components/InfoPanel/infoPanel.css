@@ -3,7 +3,6 @@
     flex-direction: column;
     justify-content: space-between;
     align-items: center; 
-    margin-top: 20%;
     margin-bottom: 10%;
     width: 100%;
 }
@@ -81,7 +80,6 @@
 
 @media screen and (min-width: 600px) {
     .infoContainer {
-        margin-top: 10vh;
         margin-bottom: 2%;
         width: 40%;
     }
@@ -102,7 +100,6 @@
 
 @media screen and (min-width: 1200px) {
     .infoContainer {
-        margin-top: 8%;
         width: 35%;
     }
 }

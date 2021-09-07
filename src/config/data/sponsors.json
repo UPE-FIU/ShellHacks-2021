@@ -1,16 +1,28 @@
 [
     {
-        "name": "Google",
-        "tier": "cone",
-        "url": "https://www.google.com/",
-        "logo": "Google.svg"
-    },    
+        "name": "GAN",
+        "tier": "conch",
+        "url": "https://gan.com/",
+        "logo": "GAN.svg"
+    },  
     {
         "name": "Microsoft",
         "tier": "cone",
         "url": "https://www.microsoft.com/en-us/",
         "logo": "Microsoft.svg"
     },    
+    {
+        "name": "Xbox",
+        "tier": "cone",
+        "url": "https://www.xbox.com/en-US/",
+        "logo": "Xbox.svg"
+    },    
+    {
+        "name": "Google",
+        "tier": "cone",
+        "url": "https://www.google.com/",
+        "logo": "Google.svg"
+    },      
     {
         "name": "Facebook",
         "tier": "cone",
@@ -24,94 +36,226 @@
         "logo": "Salesforce.svg"
     },
     {
-        "name": "Taxfyle",
+        "name": "General Electric",
         "tier": "cone",
+        "url": "https://www.ge.com/",
+        "logo": "GE.svg"
+    },
+    {
+        "name": "JP Morgan Chase & Co.",
+        "tier": "cone",
+        "url": "https://www.jpmorgan.com/global/",
+        "logo": "JPMC.svg"
+    },
+    {
+        "name": "MITRE",
+        "tier": "cone",
+        "url": "https://www.mitre.org/",
+        "logo": "MITRE.svg"
+    },
+    {   
+        "name": "AutoNation",
+        "tier": "cone",
+        "url": "https://www.autonation.com/",
+        "logo": "AutoNation.svg"
+    },
+    {
+        "name": "Assurant",
+        "tier": "cone",
+        "url": "https://www.assurant.com/",
+        "logo": "Assurant.svg"
+    },
+    {
+        "name": "Citrix",
+        "tier": "cone",
+        "url": "https://www.citrix.com/",
+        "logo": "Citrix.svg"
+    },
+    {
+        "name": "Shopify",
+        "tier": "cone",
+        "url": "https://www.shopify.com/",
+        "logo": "Shopify.svg"
+    },
+    {
+        "name": "Vanguard",
+        "tier": "cone",
+        "url": "https://www.vanguard.com/",
+        "logo": "Vanguard.svg"
+    },
+    {
+        "name": "Courier",
+        "tier": "cone",
+        "url": "https://www.courier.com/",
+        "logo": "Courier.svg"
+    },
+    {
+        "name": "MiamiCoin",
+        "tier": "cone",
+        "url": "https://www.citycoins.co/miamicoin/",
+        "logo": "MiamiCoin.svg"
+    },
+    {
+        "name": "Figma",
+        "tier": "scallop",
+        "url": "https://www.figma.com/",
+        "logo": "Figma.svg"
+    },
+    {
+        "name": "Accenture",
+        "tier": "scallop",
+        "url": "https://www.accenture.com/us-en/",
+        "logo": "Accenture.svg"
+    },
+    {
+        "name": "KnowBe4",
+        "tier": "scallop",
+        "url": "https://www.knowbe4.com/",
+        "logo": "KnowBe4.svg"
+    },
+    {
+        "name": "Taxfyle",
+        "tier": "scallop",
         "url": "https://www.taxfyle.com/",
         "logo": "Taxfyle.svg"
     },
     {
+        "name": "Robinhood",
+        "tier": "sand_dollar",
+        "url": "https://robinhood.com/us/en/",
+        "logo": "Robinhood.svg"
+    },
+    {
+        "name": "Capital One",
+        "tier": "sand_dollar",
+        "url": "https://www.capitalone.com/",
+        "logo": "CapitalOne.svg"
+    },
+    {
+        "name": "Dropbox",
+        "tier": "sand_dollar",
+        "url": "https://www.dropbox.com/",
+        "logo": "Dropbox.svg"
+    },
+    {
+        "name": "eBay",
+        "tier": "sand_dollar",
+        "url": "https://www.ebay.com/",
+        "logo": "eBay.svg"
+    },
+    {
         "name": "MetLife",
-        "tier": "cone",
+        "tier": "sand_dollar",
         "url": "https://www.metlife.com/",
         "logo": "Metlife.svg"
     },
     {
+        "name": "CodePath",
+        "tier": "sand_dollar",
+        "url": "https://codepath.org/",
+        "logo": "CodePath.svg"
+    },
+    {
         "name": "Linode",
-        "tier": "cone",
+        "tier": "sand_dollar",
         "url": "https://www.linode.com/",
         "logo": "Linode.svg"
     },
     {
+        "name": "Twilio",
+        "tier": "sand_dollar",
+        "url": "https://www.twilio.com/",
+        "logo": "Twilio.svg"  
+    },
+    {
+        "name": "MDC",
+        "tier": "sand_dollar",
+        "url": "https://www.miamidade.gov/global/home.page/",
+        "logo": "MDC.svg"
+    },
+    {
+        "name": "RxDN",
+        "tier": "sand_dollar",
+        "url": "https://www.rxdeliverednow.com/",
+        "logo": "RxDN.svg"
+    },
+    {
+        "name": "EA",
+        "tier": "in-kind",
+        "url": "https://www.ea.com/",
+        "logo": "EA.svg"
+    },
+    {
         "name": "Google Cloud Platform",
-        "tier": "cone",
+        "tier": "in-kind",
         "url": "https://cloud.google.com/",
         "logo": "GCP.svg"
     },
     {
-        "name": "CodePath",
-        "tier": "cone",
-        "url": "https://codepath.org/",
-        "logo": "CodePath.svg"
+        "name": "1517",
+        "tier": "in-kind",
+        "url": "https://www.1517.org/",
+        "logo": "1517.svg"
     }, 
     {
         "name": "Sketch",
-        "tier": "cone",
+        "tier": "in-kind",
         "url": "https://www.sketch.com/",
         "logo": "Sketch.svg"
     },
     {
         "name": "Digital Ocean",
-        "tier": "cone",
+        "tier": "in-kind",
         "url": "https://www.digitalocean.com/",
         "logo": "DigitalOcean.svg"
     },
     {
         "name": "Balsamiq",
-        "tier": "cone",
+        "tier": "in-kind",
         "url": "https://balsamiq.com/",
         "logo": "Balsamiq.svg"
     },
     {
-        "name": "Twilio",
-        "tier": "cone",
-        "url": "https://www.twilio.com/",
-        "logo": "Twilio.svg"  
+        "name": "EchoAR",
+        "tier": "in-kind",
+        "url": "https://www.echoar.xyz/",
+        "logo": "EchoAR.svg"
+    },
+    {
+        "name": "Voiceflow",
+        "tier": "in-kind",
+        "url": "https://www.voiceflow.com/",
+        "logo": "Voiceflow.svg"
+    },
+    {
+        "name": "Replit",
+        "tier": "in-kind",
+        "url": "https://replit.com/",
+        "logo": "Replit.svg"  
     },
     {
         
         "name": "Wolfram Language",
-        "tier": "cone",
+        "tier": "in-kind",
         "url": "https://www.wolfram.com/language/",
         "logo": "Wolfram.svg"
     },
     {
         "name": "Florida Panthers",
-        "tier": "cone",
+        "tier": "in-kind",
         "url": "https://www.nhl.com/panthers",
         "logo": "FloridaPanthers.svg"
     },
     {
         "name": "JetBrains",
-        "tier": "cone",
+        "tier": "in-kind",
         "url": "https://www.jetbrains.com/",
         "logo": "JetBrains.svg"
     },
     {
-        "name": "Replit",
-        "tier": "cone",
-        "url": "https://replit.com/",
-        "logo": "Replit.svg"  
-    },
-    {
-        "name": "1517",
-        "tier": "cone",
-        "url": "https://www.1517.org/",
-        "logo": "1517.svg"
-    },
-    {
-        "name": "EchoAR",
-        "tier": "cone",
-        "url": "https://www.echoar.xyz/",
-        "logo": "EchoAR.svg"
+        "name": "MLH",
+        "tier": "in-kind",
+        "url": "https://mlh.io/",
+        "logo": "MLH.svg"
     }
 ]
