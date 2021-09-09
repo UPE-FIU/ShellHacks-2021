@@ -10,6 +10,7 @@ import FooterPanel from './Components/FooterPanel/footerPanel';
 import TrackPanel from './Components/TrackPanel/trackPanel';
 import SchedulePanel from './Components/SchedulePanel/schedulePanel';
 import MLHBadge from './Components/MLHBadge/MLHBadge';
+import PartnerPanel from './Components/PartnerPanel/partnerPanel';
 
 function App() {
   return (
@@ -31,6 +32,7 @@ function App() {
       </div>
       <div className="blueBackground">
         <SponsorPanel />
+        <PartnerPanel />
         <FooterPanel />
       </div>
     </div>
