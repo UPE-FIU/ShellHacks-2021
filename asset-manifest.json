@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.ced69d8c.chunk.css",
-    "main.js": "/static/js/main.d98ff9be.chunk.js",
-    "main.js.map": "/static/js/main.d98ff9be.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.b2683442.js",
-    "runtime-main.js.map": "/static/js/runtime-main.b2683442.js.map",
+    "main.js": "/static/js/main.dda8dd99.chunk.js",
+    "main.js.map": "/static/js/main.dda8dd99.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92a40ff7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92a40ff7.js.map",
     "static/js/2.1616bda2.chunk.js": "/static/js/2.1616bda2.chunk.js",
     "static/js/2.1616bda2.chunk.js.map": "/static/js/2.1616bda2.chunk.js.map",
-    "static/js/3.f4bc58c3.chunk.js": "/static/js/3.f4bc58c3.chunk.js",
-    "static/js/3.f4bc58c3.chunk.js.map": "/static/js/3.f4bc58c3.chunk.js.map",
+    "static/js/3.d763c31a.chunk.js": "/static/js/3.d763c31a.chunk.js",
+    "static/js/3.d763c31a.chunk.js.map": "/static/js/3.d763c31a.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.ced69d8c.chunk.css.map": "/static/css/main.ced69d8c.chunk.css.map",
     "static/js/2.1616bda2.chunk.js.LICENSE.txt": "/static/js/2.1616bda2.chunk.js.LICENSE.txt",
@@ -19,6 +19,7 @@
     "static/media/AutoNation.svg": "/static/media/AutoNation.d31449dc.svg",
     "static/media/Balsamiq.svg": "/static/media/Balsamiq.5c4ad260.svg",
     "static/media/CapitalOne.svg": "/static/media/CapitalOne.1e0f153d.svg",
+    "static/media/Chevron.svg": "/static/media/Chevron.3809272b.svg",
     "static/media/Citrix.svg": "/static/media/Citrix.ed119fe5.svg",
     "static/media/CodePath.svg": "/static/media/CodePath.3fdb75dd.svg",
     "static/media/Courier.svg": "/static/media/Courier.cea6bfdd.svg",
@@ -52,6 +53,7 @@
     "static/media/Mobile_Track.6722bedf.svg": "/static/media/Mobile_Track.6722bedf.svg",
     "static/media/OKCoin.svg": "/static/media/OKCoin.4e6267c9.svg",
     "static/media/Ocean_Floor.bc147152.svg": "/static/media/Ocean_Floor.bc147152.svg",
+    "static/media/Oracle.svg": "/static/media/Oracle.c24caa8a.svg",
     "static/media/Replit.svg": "/static/media/Replit.6ce08356.svg",
     "static/media/Robinhood.svg": "/static/media/Robinhood.1d8c6294.svg",
     "static/media/RxDN.svg": "/static/media/RxDN.feeb493a.svg",
@@ -80,9 +82,9 @@
     "static/media/twitter.4e5d640e.svg": "/static/media/twitter.4e5d640e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b2683442.js",
+    "static/js/runtime-main.92a40ff7.js",
     "static/js/2.1616bda2.chunk.js",
     "static/css/main.ced69d8c.chunk.css",
-    "static/js/main.d98ff9be.chunk.js"
+    "static/js/main.dda8dd99.chunk.js"
   ]
 }
