@@ -24,13 +24,12 @@ class PartnerPanel extends Component {
     render() {
         return (
             <div className="partnerContainer">
-                <h1 className="title">Community Partners</h1>
+                <h2 className="partnerTitle">Community Partners</h2>
                 <div className="partnerLogoContainer"> 
                     {partners.map((partner, key) => 
                         <PartnerLogo key={key} partner={partner}/>
                     )}
                 </div>
-                <h1>With 🤍 from ShellHacks</h1>
             </div>
         );
     }

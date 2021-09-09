@@ -1,12 +1,77 @@
 [
     {
-        "name": "eMerge",
-        "url": "https://emergeamericas.com/",
-        "logo": "eMerge.svg"
+        "name": "FIU CEC",
+        "url": "https://cec.fiu.edu/",
+        "logo": "FIU_CEC.svg"
     },
     {
-        "name": "SHPE",
-        "url": "https://shpe.fiu.edu/",
-        "logo": "SHPE.svg"
+        "name": "FIU SCIS",
+        "url": "https://www.cis.fiu.edu/",
+        "logo": "FIU_SCIS.svg"
+    },
+    {
+        "name": "Miami Dade College",
+        "url": "https://www.mdc.edu/",
+        "logo": "Miami_Dade_College.svg"
+    },
+    {
+        "name": "Carnegie Mellon University",
+        "url": "https://www.cmu.edu/ini/",
+        "logo": "Carnegie_Mellon.svg"
+    },
+    {
+        "name": "NSIN",
+        "url": "https://www.nsin.us/",
+        "logo": "NSIN.svg"
+    },
+    {
+        "name": "General Assembly",
+        "url": "https://generalassemb.ly/",
+        "logo": "GA.svg"
+    },
+    {
+        "name": "Refresh Miami",
+        "url": "https://www.refreshmiami.com/",
+        "logo": "Refresh_Miami.svg"
+    },
+    {
+        "name": "Tech Hub SFL",
+        "url": "https://techhubsouthflorida.org/",
+        "logo": "Tech_Hub_SFL.svg"
+    },
+    {
+        "name": "Shrimp Society",
+        "url": "https://www.theshrimpsociety.com/",
+        "logo": "Shrimp_Society.svg"
+    },
+    {
+        "name": "City Year",
+        "url": "https://www.cityyear.org/",
+        "logo": "City_Year.svg"
+    },
+    {
+        "name": "Digital Page",
+        "url": "https://digitalpage.org/",
+        "logo": "Digital_Page.svg"
+    },
+    {
+        "name": "Miami Hack Week",
+        "url": "https://www.miamihackweek.com/",
+        "logo": "Miami_Hack_Week.svg"
+    },
+    {
+        "name": "KnightHacks",
+        "url": "https://club.knighthacks.org/",
+        "logo": "KnightHacks.svg"
+    },
+    {
+        "name": "SwampHacks",
+        "url": "https://2021.swamphacks.com/",
+        "logo": "SwampHacks.svg"
+    },
+    {
+        "name": "hackCBS",
+        "url": "https://hackcbs.tech/",
+        "logo": "HackCBS.svg"
     }
 ]
