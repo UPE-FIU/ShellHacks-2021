@@ -1,5 +1,11 @@
 [
     {
+        "name": "Shopify",
+        "tier": "conch",
+        "url": "https://www.shopify.com/",
+        "logo": "Shopify.svg"
+    },
+    {
         "name": "GAN",
         "tier": "conch",
         "url": "https://gan.com/",
@@ -72,12 +78,6 @@
         "logo": "Citrix.svg"
     },
     {
-        "name": "Shopify",
-        "tier": "cone",
-        "url": "https://www.shopify.com/",
-        "logo": "Shopify.svg"
-    },
-    {
         "name": "Vanguard",
         "tier": "cone",
         "url": "https://www.vanguard.com/",
@@ -100,6 +100,12 @@
         "tier": "cone",
         "url": "https://www.citycoins.co/miamicoin/",
         "logo": "MiamiCoin.svg"
+    },
+    {
+        "name": "Chevron",
+        "tier": "scallop",
+        "url": "https://www.chevron.com/",
+        "logo": "Chevron.svg"
     },
     {
         "name": "Figma",
@@ -156,6 +162,12 @@
         "logo": "CodePath.svg"
     },
     {
+        "name": "Oracle",
+        "tier": "sand_dollar",
+        "url": "https://www.oracle.com/",
+        "logo": "Oracle.svg"
+    },
+    {
         "name": "Linode",
         "tier": "sand_dollar",
         "url": "https://www.linode.com/",
@@ -170,7 +182,7 @@
     {
         "name": "MDC",
         "tier": "sand_dollar",
-        "url": "https://www.miamidade.gov/global/home.page/",
+        "url": "https://www.miamidade.gov/",
         "logo": "MDC.svg"
     },
     {
