@@ -73,5 +73,20 @@
         "name": "hackCBS",
         "url": "https://hackcbs.tech/",
         "logo": "HackCBS.svg"
+    },
+    {
+        "name": "SHPE",
+        "url": "https://shpe.fiu.edu/",
+        "logo": "SHPE.svg"
+    },
+    {
+        "name": "WiCyS",
+        "url": "https://webs.cs.fiu.edu/wicys/",
+        "logo": "WiCyS.svg"
+    },
+    {
+        "name": "SCP",
+        "url": "https://usfscp.slack.com/",
+        "logo": "SCP.svg"
     }
 ]
