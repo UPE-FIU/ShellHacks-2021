@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a1c66441.chunk.css",
-    "main.js": "/static/js/main.41dbfe63.chunk.js",
-    "main.js.map": "/static/js/main.41dbfe63.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.02e1029d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.02e1029d.js.map",
+    "main.js": "/static/js/main.2de82c68.chunk.js",
+    "main.js.map": "/static/js/main.2de82c68.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.630f0ea7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.630f0ea7.js.map",
     "static/js/2.a8a0e101.chunk.js": "/static/js/2.a8a0e101.chunk.js",
     "static/js/2.a8a0e101.chunk.js.map": "/static/js/2.a8a0e101.chunk.js.map",
-    "static/js/3.154757a9.chunk.js": "/static/js/3.154757a9.chunk.js",
-    "static/js/3.154757a9.chunk.js.map": "/static/js/3.154757a9.chunk.js.map",
+    "static/js/3.f4b9484b.chunk.js": "/static/js/3.f4b9484b.chunk.js",
+    "static/js/3.f4b9484b.chunk.js.map": "/static/js/3.f4b9484b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.a1c66441.chunk.css.map": "/static/css/main.a1c66441.chunk.css.map",
     "static/js/2.a8a0e101.chunk.js.LICENSE.txt": "/static/js/2.a8a0e101.chunk.js.LICENSE.txt",
@@ -69,6 +69,8 @@
     "static/media/Replit.svg": "/static/media/Replit.6ce08356.svg",
     "static/media/Robinhood.svg": "/static/media/Robinhood.1d8c6294.svg",
     "static/media/RxDN.svg": "/static/media/RxDN.feeb493a.svg",
+    "static/media/SCP.svg": "/static/media/SCP.79afe2b2.svg",
+    "static/media/SHPE.svg": "/static/media/SHPE.b2aa665f.svg",
     "static/media/SH_Logo_Pink_Slogan.e7da4ad8.svg": "/static/media/SH_Logo_Pink_Slogan.e7da4ad8.svg",
     "static/media/Salesforce.svg": "/static/media/Salesforce.4871ea42.svg",
     "static/media/Shark_Squid.49f9a60c.svg": "/static/media/Shark_Squid.49f9a60c.svg",
@@ -86,6 +88,7 @@
     "static/media/Voiceflow.svg": "/static/media/Voiceflow.5c41fd70.svg",
     "static/media/Web_Track.e7eb9635.svg": "/static/media/Web_Track.e7eb9635.svg",
     "static/media/Whale.b7890752.svg": "/static/media/Whale.b7890752.svg",
+    "static/media/WiCyS.svg": "/static/media/WiCyS.08404ec7.svg",
     "static/media/Wolfram.svg": "/static/media/Wolfram.0401009d.svg",
     "static/media/Xbox.svg": "/static/media/Xbox.b108a207.svg",
     "static/media/discord.4b46d06e.svg": "/static/media/discord.4b46d06e.svg",
@@ -97,9 +100,9 @@
     "static/media/twitter.4e5d640e.svg": "/static/media/twitter.4e5d640e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.02e1029d.js",
+    "static/js/runtime-main.630f0ea7.js",
     "static/js/2.a8a0e101.chunk.js",
     "static/css/main.a1c66441.chunk.css",
-    "static/js/main.41dbfe63.chunk.js"
+    "static/js/main.2de82c68.chunk.js"
   ]
 }
