@@ -10,6 +10,11 @@
         "logo": "FIU_SCIS.svg"
     },
     {
+        "name": "FIU OOP",
+        "url": "https://president.fiu.edu/",
+        "logo": "FIU_OOP.svg"
+    },
+    {
         "name": "Miami Dade College",
         "url": "https://www.mdc.edu/",
         "logo": "Miami_Dade_College.svg"
@@ -43,6 +48,11 @@
         "name": "Shrimp Society",
         "url": "https://www.theshrimpsociety.com/",
         "logo": "Shrimp_Society.svg"
+    },
+    {
+        "name": "eMerge Americas",
+        "url": "https://emergeamericas.com/",
+        "logo": "eMerge.svg"
     },
     {
         "name": "City Year",
