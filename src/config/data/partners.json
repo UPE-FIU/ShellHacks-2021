@@ -10,6 +10,11 @@
         "logo": "FIU_SCIS.svg"
     },
     {
+        "name": "FIU OOP",
+        "url": "https://president.fiu.edu/",
+        "logo": "FIU_OOP.svg"
+    },
+    {
         "name": "Miami Dade College",
         "url": "https://www.mdc.edu/",
         "logo": "Miami_Dade_College.svg"
@@ -45,6 +50,11 @@
         "logo": "Shrimp_Society.svg"
     },
     {
+        "name": "eMerge Americas",
+        "url": "https://emergeamericas.com/",
+        "logo": "eMerge.svg"
+    },
+    {
         "name": "City Year",
         "url": "https://www.cityyear.org/",
         "logo": "City_Year.svg"
@@ -73,5 +83,20 @@
         "name": "hackCBS",
         "url": "https://hackcbs.tech/",
         "logo": "HackCBS.svg"
+    },
+    {
+        "name": "SHPE",
+        "url": "https://shpe.fiu.edu/",
+        "logo": "SHPE.svg"
+    },
+    {
+        "name": "WiCyS",
+        "url": "https://webs.cs.fiu.edu/wicys/",
+        "logo": "WiCyS.svg"
+    },
+    {
+        "name": "SCP",
+        "url": "https://usfscp.slack.com/",
+        "logo": "SCP.svg"
     }
 ]

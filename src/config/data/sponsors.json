@@ -102,6 +102,18 @@
         "logo": "MiamiCoin.svg"
     },
     {
+        "name": "FIU SGA",
+        "tier": "cone",
+        "url": "https://studentaffairs.fiu.edu/get-involved/student-government-association/",
+        "logo": "FIU_SGA.svg"
+    },
+    {
+        "name": "State Farm",
+        "tier": "scallop",
+        "url": "https://www.statefarm.com/",
+        "logo": "State_Farm.svg"
+    },
+    {
         "name": "Chevron",
         "tier": "scallop",
         "url": "https://www.chevron.com/",
@@ -184,6 +196,18 @@
         "tier": "sand_dollar",
         "url": "https://www.miamidade.gov/",
         "logo": "MDC.svg"
+    },
+    {
+        "name": "FIU Online",
+        "tier": "sand_dollar",
+        "url": "https://online.fiu.edu/",
+        "logo": "FIU_Online.svg"
+    },
+    {
+        "name": "FIU Honors",
+        "tier": "sand_dollar",
+        "url": "https://honors.fiu.edu/",
+        "logo": "FIU_Honors.svg"
     },
     {
         "name": "RxDN",
