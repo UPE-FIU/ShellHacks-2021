@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.a1c66441.chunk.css",
-    "main.js": "/static/js/main.ed117796.chunk.js",
-    "main.js.map": "/static/js/main.ed117796.chunk.js.map",
+    "main.js": "/static/js/main.6edf900f.chunk.js",
+    "main.js.map": "/static/js/main.6edf900f.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.fa60a353.js",
     "runtime-main.js.map": "/static/js/runtime-main.fa60a353.js.map",
     "static/js/2.a8a0e101.chunk.js": "/static/js/2.a8a0e101.chunk.js",
@@ -36,7 +36,7 @@
     "static/media/FIU_OOP.svg": "/static/media/FIU_OOP.dff02127.svg",
     "static/media/FIU_Online.svg": "/static/media/FIU_Online.973184a8.svg",
     "static/media/FIU_SCIS.svg": "/static/media/FIU_SCIS.e104b4f3.svg",
-    "static/media/FIU_SGA.svg": "/static/media/FIU_SGA.e0ef40df.svg",
+    "static/media/FIU_SGA.svg": "/static/media/FIU_SGA.4fbeb755.svg",
     "static/media/Facebook.svg": "/static/media/Facebook.f4c2c7c2.svg",
     "static/media/Figma.svg": "/static/media/Figma.da72b4ea.svg",
     "static/media/FloridaPanthers.svg": "/static/media/FloridaPanthers.45c6b3e4.svg",
@@ -109,6 +109,6 @@
     "static/js/runtime-main.fa60a353.js",
     "static/js/2.a8a0e101.chunk.js",
     "static/css/main.a1c66441.chunk.css",
-    "static/js/main.ed117796.chunk.js"
+    "static/js/main.6edf900f.chunk.js"
   ]
 }
