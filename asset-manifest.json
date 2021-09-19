@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a1c66441.chunk.css",
-    "main.js": "/static/js/main.6edf900f.chunk.js",
-    "main.js.map": "/static/js/main.6edf900f.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.fa60a353.js",
-    "runtime-main.js.map": "/static/js/runtime-main.fa60a353.js.map",
+    "main.js": "/static/js/main.d4f7b173.chunk.js",
+    "main.js.map": "/static/js/main.d4f7b173.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.630f0ea7.js",
+    "runtime-main.js.map": "/static/js/runtime-main.630f0ea7.js.map",
     "static/js/2.a8a0e101.chunk.js": "/static/js/2.a8a0e101.chunk.js",
     "static/js/2.a8a0e101.chunk.js.map": "/static/js/2.a8a0e101.chunk.js.map",
-    "static/js/3.265a51b8.chunk.js": "/static/js/3.265a51b8.chunk.js",
-    "static/js/3.265a51b8.chunk.js.map": "/static/js/3.265a51b8.chunk.js.map",
+    "static/js/3.f4b9484b.chunk.js": "/static/js/3.f4b9484b.chunk.js",
+    "static/js/3.f4b9484b.chunk.js.map": "/static/js/3.f4b9484b.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.a1c66441.chunk.css.map": "/static/css/main.a1c66441.chunk.css.map",
     "static/js/2.a8a0e101.chunk.js.LICENSE.txt": "/static/js/2.a8a0e101.chunk.js.LICENSE.txt",
@@ -20,7 +20,7 @@
     "static/media/Balsamiq.svg": "/static/media/Balsamiq.5c4ad260.svg",
     "static/media/CapitalOne.svg": "/static/media/CapitalOne.1e0f153d.svg",
     "static/media/Carnegie_Mellon.svg": "/static/media/Carnegie_Mellon.29427a63.svg",
-    "static/media/Chevron.svg": "/static/media/Chevron.e94e1454.svg",
+    "static/media/Chevron.svg": "/static/media/Chevron.3809272b.svg",
     "static/media/Citrix.svg": "/static/media/Citrix.ed119fe5.svg",
     "static/media/City_Year.svg": "/static/media/City_Year.406ead6b.svg",
     "static/media/CodePath.svg": "/static/media/CodePath.3fdb75dd.svg",
@@ -32,11 +32,7 @@
     "static/media/EA.svg": "/static/media/EA.9bc9d2d1.svg",
     "static/media/EchoAR.svg": "/static/media/EchoAR.d6566e4c.svg",
     "static/media/FIU_CEC.svg": "/static/media/FIU_CEC.5118bf7d.svg",
-    "static/media/FIU_Honors.svg": "/static/media/FIU_Honors.00eb10dd.svg",
-    "static/media/FIU_OOP.svg": "/static/media/FIU_OOP.dff02127.svg",
-    "static/media/FIU_Online.svg": "/static/media/FIU_Online.973184a8.svg",
     "static/media/FIU_SCIS.svg": "/static/media/FIU_SCIS.e104b4f3.svg",
-    "static/media/FIU_SGA.svg": "/static/media/FIU_SGA.4fbeb755.svg",
     "static/media/Facebook.svg": "/static/media/Facebook.f4c2c7c2.svg",
     "static/media/Figma.svg": "/static/media/Figma.da72b4ea.svg",
     "static/media/FloridaPanthers.svg": "/static/media/FloridaPanthers.45c6b3e4.svg",
@@ -60,7 +56,7 @@
     "static/media/MLH.svg": "/static/media/MLH.c84d1ac5.svg",
     "static/media/Mantarays.1b0ca467.svg": "/static/media/Mantarays.1b0ca467.svg",
     "static/media/Metlife.svg": "/static/media/Metlife.0a27ec46.svg",
-    "static/media/MiamiCoin.svg": "/static/media/MiamiCoin.6e8a765b.svg",
+    "static/media/MiamiCoin.svg": "/static/media/MiamiCoin.912c50f4.svg",
     "static/media/Miami_Dade_College.svg": "/static/media/Miami_Dade_College.f98666b0.svg",
     "static/media/Miami_Hack_Week.svg": "/static/media/Miami_Hack_Week.850f7c50.svg",
     "static/media/Microsoft.svg": "/static/media/Microsoft.8187b614.svg",
@@ -83,7 +79,6 @@
     "static/media/Shrimp_Society.svg": "/static/media/Shrimp_Society.a3ad95a0.svg",
     "static/media/Sketch.svg": "/static/media/Sketch.2f4878ae.svg",
     "static/media/Southwest.svg": "/static/media/Southwest.00038c75.svg",
-    "static/media/State_Farm.svg": "/static/media/State_Farm.96608a9f.svg",
     "static/media/SwampHacks.svg": "/static/media/SwampHacks.0feaf36f.svg",
     "static/media/Swimmer.42562baf.svg": "/static/media/Swimmer.42562baf.svg",
     "static/media/Tech_Hub_SFL.svg": "/static/media/Tech_Hub_SFL.0b66e695.svg",
@@ -98,7 +93,6 @@
     "static/media/Xbox.svg": "/static/media/Xbox.b108a207.svg",
     "static/media/discord.4b46d06e.svg": "/static/media/discord.4b46d06e.svg",
     "static/media/eBay.svg": "/static/media/eBay.4dd93b23.svg",
-    "static/media/eMerge.svg": "/static/media/eMerge.41db8550.svg",
     "static/media/facebook.6a55d8d5.svg": "/static/media/facebook.6a55d8d5.svg",
     "static/media/instagram.7d6c1159.svg": "/static/media/instagram.7d6c1159.svg",
     "static/media/linkedin.f955aa65.svg": "/static/media/linkedin.f955aa65.svg",
@@ -106,9 +100,9 @@
     "static/media/twitter.4e5d640e.svg": "/static/media/twitter.4e5d640e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.fa60a353.js",
+    "static/js/runtime-main.630f0ea7.js",
     "static/js/2.a8a0e101.chunk.js",
     "static/css/main.a1c66441.chunk.css",
-    "static/js/main.6edf900f.chunk.js"
+    "static/js/main.d4f7b173.chunk.js"
   ]
 }
