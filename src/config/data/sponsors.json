@@ -108,6 +108,18 @@
         "logo": "FIU_SGA.svg"
     },
     {
+        "name": "MLT",
+        "tier": "cone",
+        "url": "https://mlt.org/",
+        "logo": "MLT.svg"
+    },
+    {
+        "name": "CoinRoutes",
+        "tier": "cone",
+        "url": "https://coinroutes.com/",
+        "logo": "CoinRoutes.svg"
+    },
+    {
         "name": "State Farm",
         "tier": "scallop",
         "url": "https://www.statefarm.com/",
