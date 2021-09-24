@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.a1c66441.chunk.css",
-    "main.js": "/static/js/main.e8fff21e.chunk.js",
-    "main.js.map": "/static/js/main.e8fff21e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.c6d98931.js",
-    "runtime-main.js.map": "/static/js/runtime-main.c6d98931.js.map",
+    "main.js": "/static/js/main.639351f4.chunk.js",
+    "main.js.map": "/static/js/main.639351f4.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.4c0840f2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.4c0840f2.js.map",
     "static/js/2.a8a0e101.chunk.js": "/static/js/2.a8a0e101.chunk.js",
     "static/js/2.a8a0e101.chunk.js.map": "/static/js/2.a8a0e101.chunk.js.map",
-    "static/js/3.9baa70e9.chunk.js": "/static/js/3.9baa70e9.chunk.js",
-    "static/js/3.9baa70e9.chunk.js.map": "/static/js/3.9baa70e9.chunk.js.map",
+    "static/js/3.a37a7b94.chunk.js": "/static/js/3.a37a7b94.chunk.js",
+    "static/js/3.a37a7b94.chunk.js.map": "/static/js/3.a37a7b94.chunk.js.map",
     "index.html": "/index.html",
     "static/css/main.a1c66441.chunk.css.map": "/static/css/main.a1c66441.chunk.css.map",
     "static/js/2.a8a0e101.chunk.js.LICENSE.txt": "/static/js/2.a8a0e101.chunk.js.LICENSE.txt",
@@ -34,6 +34,7 @@
     "static/media/EA.svg": "/static/media/EA.9bc9d2d1.svg",
     "static/media/EchoAR.svg": "/static/media/EchoAR.d6566e4c.svg",
     "static/media/FIU_CEC.svg": "/static/media/FIU_CEC.5118bf7d.svg",
+    "static/media/FIU_Engagement.svg": "/static/media/FIU_Engagement.5e7af57a.svg",
     "static/media/FIU_Honors.svg": "/static/media/FIU_Honors.00eb10dd.svg",
     "static/media/FIU_OOP.svg": "/static/media/FIU_OOP.dff02127.svg",
     "static/media/FIU_Online.svg": "/static/media/FIU_Online.973184a8.svg",
@@ -91,6 +92,7 @@
     "static/media/Swimmer.42562baf.svg": "/static/media/Swimmer.42562baf.svg",
     "static/media/Tech_Hub_SFL.svg": "/static/media/Tech_Hub_SFL.0b66e695.svg",
     "static/media/Twilio.svg": "/static/media/Twilio.0f7aceaf.svg",
+    "static/media/UPE_AA.svg": "/static/media/UPE_AA.335a6a9d.svg",
     "static/media/UPE_Logo.e16d0b5f.svg": "/static/media/UPE_Logo.e16d0b5f.svg",
     "static/media/Vanguard.svg": "/static/media/Vanguard.29c53aef.svg",
     "static/media/Voiceflow.svg": "/static/media/Voiceflow.5c41fd70.svg",
@@ -109,9 +111,9 @@
     "static/media/twitter.4e5d640e.svg": "/static/media/twitter.4e5d640e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6d98931.js",
+    "static/js/runtime-main.4c0840f2.js",
     "static/js/2.a8a0e101.chunk.js",
     "static/css/main.a1c66441.chunk.css",
-    "static/js/main.e8fff21e.chunk.js"
+    "static/js/main.639351f4.chunk.js"
   ]
 }
