@@ -15,6 +15,16 @@
         "logo": "FIU_OOP.svg"
     },
     {
+        "name": "FIU Engagement",
+        "url": "https://engagement.fiu.edu/",
+        "logo": "FIU_Engagement.svg"
+    },
+    {
+        "name": "UPE Alumni Association",
+        "url": "https://linktr.ee/upealumni/",
+        "logo": "UPE_AA.svg"
+    },
+    {
         "name": "Miami Dade College",
         "url": "https://www.mdc.edu/",
         "logo": "Miami_Dade_College.svg"
@@ -23,6 +33,16 @@
         "name": "Carnegie Mellon University",
         "url": "https://www.cmu.edu/ini/",
         "logo": "Carnegie_Mellon.svg"
+    },
+    {
+        "name": "MDC",
+        "url": "https://www.miamidade.gov/",
+        "logo": "MDC.svg"
+    },
+    {
+        "name": "Pitch",
+        "url": "https://www.pitch.lol/",
+        "logo": "Pitch.svg"
     },
     {
         "name": "NSIN",

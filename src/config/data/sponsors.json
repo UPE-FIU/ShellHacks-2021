@@ -228,6 +228,12 @@
         "logo": "RxDN.svg"
     },
     {
+        "name": "Deloitte",
+        "tier": "sand_dollar",
+        "url": "https://www2.deloitte.com/us/en.html",
+        "logo": "Deloitte.svg"
+    },
+    {
         "name": "EA",
         "tier": "in-kind",
         "url": "https://www.ea.com/",
@@ -242,7 +248,7 @@
     {
         "name": "1517",
         "tier": "in-kind",
-        "url": "https://www.1517.org/",
+        "url": "https://www.1517fund.com/",
         "logo": "1517.svg"
     }, 
     {
